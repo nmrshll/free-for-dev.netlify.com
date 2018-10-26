@@ -10,7 +10,7 @@ const Filters = () => <div>filters</div>;
 
 const HomePageStyle = styled.div`
   min-height: 100vh;
-  background-color: hsl(220, 80%, 98%);
+  background-color: hsl(210, 70%, 98%);
   > .main {
     display: flex;
     flex-flow: column nowrap;
