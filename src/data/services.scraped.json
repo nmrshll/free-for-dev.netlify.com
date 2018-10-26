@@ -1,0 +1,2786 @@
+[
+  {
+    "url": "https://bitbucket.org/",
+    "name": "bitbucket.org",
+    "category": "Source Code Repos",
+    "description": "Unlimited public and private repos (Git and Mercurial) for up to 5 users with Pipelines for CI/CD"
+  },
+  {
+    "url": "http://chiselapp.com/",
+    "name": "chiselapp.com",
+    "category": "Source Code Repos",
+    "description": "Unlimited public and private Fossil repositories"
+  },
+  {
+    "url": "https://github.com/",
+    "name": "github.com",
+    "category": "Source Code Repos",
+    "description": "Unlimited number of public repositories"
+  },
+  {
+    "url": "https://about.gitlab.com/",
+    "name": "about.gitlab.com",
+    "category": "Source Code Repos",
+    "description": "Unlimited public and private Git repos with unlimited collaborators"
+  },
+  {
+    "url": "https://www.visualstudio.com/",
+    "name": "visualstudio.com",
+    "category": "Source Code Repos",
+    "description": "Unlimited private repos (Git and TFS) for up to 5 users/team"
+  },
+  {
+    "url": "https://plasticscm.com/",
+    "name": "plasticscm.com",
+    "category": "Source Code Repos",
+    "description": "Free for individuals, OSS and nonprofit organizations"
+  },
+  {
+    "url": "https://cloud.google.com/tools/cloud-repositories/",
+    "name": "cloud.google.com",
+    "category": "Source Code Repos",
+    "description": "Free private Git repositories hosted on Google Cloud Platform. Supports syncing with existing GitHub and Bitbucket repos. Free Beta for up to 500 MB of storage"
+  },
+  {
+    "url": "https://www.codebasehq.com/",
+    "name": "codebasehq.com",
+    "category": "Source Code Repos",
+    "description": "One free project with 100 MB space and 2 users"
+  },
+  {
+    "url": "https://notabug.org",
+    "name": "NotABug",
+    "category": "Source Code Repos",
+    "description": ".org is a free-software code collaboration platform for freely licensed projects, Git-based"
+  },
+  {
+    "url": "https://www.perforce.com/products/helix-teamhub",
+    "name": "perforce.com",
+    "category": "Source Code Repos",
+    "description": "Free 1GB Cloud and  Git, Mercurial, or SVN repositories."
+  },
+  {
+    "url": "https://projectlocker.com",
+    "name": "projectlocker.com",
+    "category": "Source Code Repos",
+    "description": "One free private project (Git and Subversion) with 50 MB space"
+  },
+  {
+    "url": "https://bintray.com/",
+    "name": "bintray.comJCenter",
+    "category": "Artifact Repos",
+    "description": "Frog Bintray hosts Open Source projects for free, and supports Docker, Maven, NuGet, npm, Debian, RPM, Conan, Vagrant, Opkg, yum, and also home to JCenter the most comprehensive collection of Maven artifacts."
+  },
+  {
+    "url": "https://central.sonatype.org",
+    "name": "central.sonatype.org",
+    "category": "Artifact Repos",
+    "description": "The default artifact repository for Apache Maven, SBT and other build systems."
+  },
+  {
+    "url": "https://packagecloud.io",
+    "name": "packagecloud.io",
+    "category": "Artifact Repos",
+    "description": "Easy to use repository hosting for: Maven, RPM, DEB, PyPi and RubyGem packages (has free tier)."
+  },
+  {
+    "url": "https://cloudsmith.io",
+    "name": "cloudsmith.io",
+    "category": "Artifact Repos",
+    "description": "Simple, secure and centralised repository service for Java/Maven, RedHat, Debian, Python, Ruby, Vagrant +more. Free tier + free for open source."
+  },
+  {
+    "url": "https://jitpack.io/",
+    "name": "jitpack.io",
+    "category": "Artifact Repos",
+    "description": "Maven repository for JVM and Android projects on GitHub, free for public projects."
+  },
+  {
+    "url": "https://scinote.net",
+    "name": "scinote.net",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Scientific data management and team collaboration. One Team with unlimited number of users, backup and 1 GB storage space"
+  },
+  {
+    "url": "https://appear.in/",
+    "name": "appear.in",
+    "category": "Tools for Teams and Collaboration",
+    "description": "One click video conversations, for free"
+  },
+  {
+    "url": "https://meet.jit.si/",
+    "name": "meet.jit.si",
+    "category": "Tools for Teams and Collaboration",
+    "description": "One click video conversations, screen sharing, for free"
+  },
+  {
+    "url": "https://www.flowdock.com/",
+    "name": "flowdock.com",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Chat and inbox, free for teams up to 5"
+  },
+  {
+    "url": "https://slack.com/",
+    "name": "slack.com",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Free for unlimited users with some feature limitations"
+  },
+  {
+    "url": "https://gitter.im/",
+    "name": "gitter.im",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Chat, for GitHub. Unlimited public and private rooms, free for teams up to 25"
+  },
+  {
+    "url": "https://hangouts.google.com/",
+    "name": "hangouts.google.com",
+    "category": "Tools for Teams and Collaboration",
+    "description": "One place for all your conversations, for free, need a Google account"
+  },
+  {
+    "url": "https://www.seafile.com/",
+    "name": "seafile.com",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Private or cloud storage, file sharing, sync, discussions. Private version is full. Cloud version has just 1 GB"
+  },
+  {
+    "url": "https://www.yammer.com/",
+    "name": "yammer.com",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Private social network standalone or for MS Office 365. Free with a bit less admin tools and users management features"
+  },
+  {
+    "url": "https://helpmonks.com/",
+    "name": "helpmonks.com",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Shared inbox for teams, free for Open Source and nonprofit organizations"
+  },
+  {
+    "url": "https://www.typetalk.in/",
+    "name": "typetalk.in",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Share and discuss ideas with your team through instant messaging on the web or on your mobile"
+  },
+  {
+    "url": "https://talky.io/",
+    "name": "talky.io",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Free group video chat. Anonymous. Peer‑to‑peer. No plugins, signup, or payment required"
+  },
+  {
+    "url": "http://sourcetalk.net/",
+    "name": "sourcetalk.net",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Code discussion tool, free for open code talks"
+  },
+  {
+    "url": "https://www.helplightning.com/",
+    "name": "helplightning.com",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Help over video with augmented reality. Free without analytics, encryption, support"
+  },
+  {
+    "url": "https://evernote.com/",
+    "name": "evernote.com",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Tool for organizing information. Share your notes and work together with others"
+  },
+  {
+    "url": "https://doodle.com/",
+    "name": "doodle.com",
+    "category": "Tools for Teams and Collaboration",
+    "description": "The scheduling tool you'll actually use. Find a date for a meeting two times faster"
+  },
+  {
+    "url": "https://sendtoinc.com/",
+    "name": "sendtoinc.com",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Share links, notes, files and have discussions. Free for 3 and 100 MB"
+  },
+  {
+    "url": "https://zoom.us/",
+    "name": "zoom.us",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Secure Video and Web conferencing, add-ons available. Free limited to 40 minutes"
+  },
+  {
+    "url": "https://ideascale.com/",
+    "name": "ideascale.com",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Allow clients to submit ideas and vote, free for 25 members in 1 community"
+  },
+  {
+    "url": "https://wistia.com/",
+    "name": "wistia.com",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Video hosting with viewer analytics, HD video delivery and marketing tools to help understand your visitors, 25 videos and Wistia branded player"
+  },
+  {
+    "url": "https://www.cnverg.com/",
+    "name": "cnverg.com",
+    "category": "Tools for Teams and Collaboration",
+    "description": "Real-time shared visual workspace, whiteboard, GitHub integration. Free 5 GB, 5 spaces and 5 collaborators, no GitHub repos"
+  },
+  {
+    "url": "https://flock.com",
+    "name": "flock.com",
+    "category": "Tools for Teams and Collaboration",
+    "description": "A faster way for your team to communicate. Free Unlimited Messages, Channels, Users, Apps \u0026 Integrations"
+  },
+  {
+    "url": "https://www.igloosoftware.com/",
+    "name": "Igloo",
+    "category": "Tools for Teams and Collaboration",
+    "description": "nternal portal for sharing documents, blogs and calendars etc. Free for up to 10 users."
+  },
+  {
+    "url": "https://about.riot.im/",
+    "name": "riot.im",
+    "category": "Tools for Teams and Collaboration",
+    "description": "A decentralized communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services."
+  },
+  {
+    "url": "https://products.office.com/en-us/microsoft-teams/free",
+    "name": "Microsoft Teams",
+    "category": "Tools for Teams and Collaboration",
+    "description": "hat-based digital hub that brings conversations, content, and apps together in one place all from a single experience. Free for up to 300 users."
+  },
+  {
+    "url": "https://tachikoma.io/",
+    "name": "tachikoma.io",
+    "category": "Code Quality",
+    "description": "Dependency Update for Ruby, Node.js, Perl projects, free for Open Source"
+  },
+  {
+    "url": "https://www.deppbot.com/",
+    "name": "deppbot.com",
+    "category": "Code Quality",
+    "description": "Automated Dependency Updates for Ruby projects, free for Open Source"
+  },
+  {
+    "url": "https://landscape.io/",
+    "name": "landscape.io",
+    "category": "Code Quality",
+    "description": "Code Quality for Python projects, free for Open Source"
+  },
+  {
+    "url": "https://codeclimate.com/",
+    "name": "codeclimate.com",
+    "category": "Code Quality",
+    "description": "Automated code review, free for Open Source"
+  },
+  {
+    "url": "https://houndci.com/",
+    "name": "houndci.com",
+    "category": "Code Quality",
+    "description": "Comments on GitHub commits about code quality, free for Open Source"
+  },
+  {
+    "url": "https://coveralls.io/",
+    "name": "coveralls.io",
+    "category": "Code Quality",
+    "description": "Display test coverage reports, free for Open Source"
+  },
+  {
+    "url": "https://scrutinizer-ci.com/",
+    "name": "scrutinizer-ci.com",
+    "category": "Code Quality",
+    "description": "Continuous inspection platform, free for Open Source"
+  },
+  {
+    "url": "https://codecov.io/",
+    "name": "codecov.io",
+    "category": "Code Quality",
+    "description": "Code coverage tool (SaaS), free for Open Source"
+  },
+  {
+    "url": "https://insight.sensiolabs.com/",
+    "name": "insight.sensiolabs.com",
+    "category": "Code Quality",
+    "description": "Code Quality for PHP/Symfony projects, free for Open Source"
+  },
+  {
+    "url": "https://codacy.com/",
+    "name": "codacy.com",
+    "category": "Code Quality",
+    "description": "Automated code reviews for PHP, Python, Ruby, Java, JavaScript, Scala, CSS and CoffeeScript, free for Open Source"
+  },
+  {
+    "url": "https://gocover.io/",
+    "name": "gocover.ioGo",
+    "category": "Code Quality",
+    "description": "Code coverage for any Go package"
+  },
+  {
+    "url": "https://goreportcard.com/",
+    "name": "goreportcard.com",
+    "category": "Code Quality",
+    "description": "Code Quality for Go projects, free for Open Source"
+  },
+  {
+    "url": "https://inch-ci.org/",
+    "name": "inch-ci.org",
+    "category": "Code Quality",
+    "description": "Documentation badges for Ruby, JS and Elixir"
+  },
+  {
+    "url": "https://scan.coverity.com/",
+    "name": "scan.coverity.com",
+    "category": "Code Quality",
+    "description": "Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source"
+  },
+  {
+    "url": "https://www.webceo.com/",
+    "name": "webceo.com",
+    "category": "Code Quality",
+    "description": "SEO tools but with also code verifications and different type of advices"
+  },
+  {
+    "url": "https://zoompf.com/",
+    "name": "zoompf.com",
+    "category": "Code Quality",
+    "description": "Fix the performance of your web sites, detailed analysis"
+  },
+  {
+    "url": "https://gtmetrix.com/",
+    "name": "gtmetrix.com",
+    "category": "Code Quality",
+    "description": "Reports and thorough recommendations to optimize websites"
+  },
+  {
+    "url": "https://www.browserling.com/",
+    "name": "browserling.com",
+    "category": "Code Quality",
+    "description": "Live interactive cross-browser testing, free only 3 minutes sessions with MS IE 9 under Vista at 1024 x 768 resolution"
+  },
+  {
+    "url": "https://shields.io",
+    "name": "shields.io",
+    "category": "Code Quality",
+    "description": "Quality metadata badges for open source projects"
+  },
+  {
+    "url": "https://beanstalkapp.com/",
+    "name": "beanstalkapp.com",
+    "category": "Code Quality",
+    "description": "A complete workflow to write, review and deploy code), free account for 1 user and 1 repository with 100 MB of storage"
+  },
+  {
+    "url": "https://testanywhere.co/",
+    "name": "testanywhere.co",
+    "category": "Code Quality",
+    "description": "Automatic test website or web app continuously and catch bugs in the early stages, free 1,000 tests/month"
+  },
+  {
+    "url": "https://blamewarrior.com/",
+    "name": "blamewarrior.com",
+    "category": "Code Quality",
+    "description": "Tool to automatically assign reviewers for new pull requests and track statistics of review process, free for Open Source"
+  },
+  {
+    "url": "https://review.gerrithub.io/",
+    "name": "gerrithub.io",
+    "category": "Code Quality",
+    "description": "Gerrit code review for GitHub repositories for free"
+  },
+  {
+    "url": "https://reviewable.io/",
+    "name": "reviewable.io",
+    "category": "Code Quality",
+    "description": "Code review for GitHub repositories, free for public or personal repos"
+  },
+  {
+    "url": "https://sonarcloud.io",
+    "name": "sonarcloud.io",
+    "category": "Code Quality",
+    "description": "Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source"
+  },
+  {
+    "url": "https://golangci.com",
+    "name": "golangci.com",
+    "category": "Code Quality",
+    "description": "Automated Go (golang) code review service for GitHub pull requests."
+  },
+  {
+    "url": "https://www.codota.com/",
+    "name": "codota.com",
+    "category": "Code Search and Browsing",
+    "description": "Codota helps developers create better software, faster by providing insights learned from all the code in the world. Plugin available."
+  },
+  {
+    "url": "https://libraries.io/",
+    "name": "libraries.io",
+    "category": "Code Search and Browsing",
+    "description": "Search and dependency update notifications for 32 different package managers, free for open source"
+  },
+  {
+    "url": "https://sourcegraph.com/",
+    "name": "sourcegraph.com",
+    "category": "Code Search and Browsing",
+    "description": "Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source"
+  },
+  {
+    "url": "https://searchcode.com/",
+    "name": "searchcode.com",
+    "category": "Code Search and Browsing",
+    "description": "Comprehensive text-based code search, free for Open Source"
+  },
+  {
+    "url": "https://azure.microsoft.com/services/devops/pipelines/",
+    "name": "dev.azure.com",
+    "category": "CI / CD",
+    "description": "10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows"
+  },
+  {
+    "url": "https://codefresh.io",
+    "name": "codefresh.io",
+    "category": "CI / CD",
+    "description": "Free-for-Life plan: 1 build, 1 environment, shared servers, unlimited public repos"
+  },
+  {
+    "url": "https://codeship.com/",
+    "name": "codeship.com",
+    "category": "CI / CD",
+    "description": "100 private builds/month, 5 private projects, unlimited for Open Source"
+  },
+  {
+    "url": "https://circleci.com/",
+    "name": "circleci.com",
+    "category": "CI / CD",
+    "description": "Free for one concurrent build"
+  },
+  {
+    "url": "https://stackahoy.io",
+    "name": "stackahoy.io",
+    "category": "CI / CD",
+    "description": "100% free. Unlimited deployments, branches and builds"
+  },
+  {
+    "url": "https://travis-ci.org/",
+    "name": "travis-ci.org",
+    "category": "CI / CD",
+    "description": "Free for public GitHub repositories"
+  },
+  {
+    "url": "https://semaphoreci.com/",
+    "name": "semaphoreci.com",
+    "category": "CI / CD",
+    "description": "Free for Open Source, 100 private builds per month"
+  },
+  {
+    "url": "https://app.shippable.com/",
+    "name": "shippable.com",
+    "category": "CI / CD",
+    "description": "150 private builds/month, free for 1 build container, private and public repos"
+  },
+  {
+    "url": "https://www.appveyor.com/",
+    "name": "appveyor.com",
+    "category": "CI / CD",
+    "description": "CD service for Windows, free for Open Source"
+  },
+  {
+    "url": "https://github.com/ligurio/Continuous-Integration-services",
+    "name": "github.com",
+    "category": "CI / CD",
+    "description": "Comparison of Continuous Integration services"
+  },
+  {
+    "url": "https://ftploy.com/",
+    "name": "ftploy.com",
+    "category": "CI / CD",
+    "description": "1 project with unlimited deployments"
+  },
+  {
+    "url": "https://www.deployhq.com/",
+    "name": "deployhq.com",
+    "category": "CI / CD",
+    "description": "1 project with 10 daily deployments"
+  },
+  {
+    "url": "https://styleci.io/",
+    "name": "styleci.io",
+    "category": "CI / CD",
+    "description": "Public GitHub repositories only"
+  },
+  {
+    "url": "https://www.bitrise.io/",
+    "name": "bitrise.io",
+    "category": "CI / CD",
+    "description": "An iOS CI/CD with 200 free builds/month"
+  },
+  {
+    "url": "https://www.buddybuild.com/",
+    "name": "buddybuild.com",
+    "category": "CI / CD",
+    "description": "Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system"
+  },
+  {
+    "url": "https://about.gitlab.com/gitlab-ci/",
+    "name": "gitlab.com",
+    "category": "CI / CD",
+    "description": "Create pipelines directly from Git repositories using GitLab's CI service"
+  },
+  {
+    "url": "https://buddy.works/",
+    "name": "buddy.works",
+    "category": "CI / CD",
+    "description": "A CI/CD with 5 free projects and 1 concurrent runs (120 executions/month)"
+  },
+  {
+    "url": "https://www.gridlastic.com/",
+    "name": "gridlastic.com",
+    "category": "Automated Browser Testing",
+    "description": "Selenium Grid testing with free plan up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes/month"
+  },
+  {
+    "url": "https://saucelabs.com/",
+    "name": "saucelabs.comfree for Open Source",
+    "category": "Automated Browser Testing",
+    "description": "Cross browser testing, Selenium testing and mobile testing, free for Open Source"
+  },
+  {
+    "url": "https://www.browserstack.com/",
+    "name": "browserstack.com",
+    "category": "Automated Browser Testing",
+    "description": "Manual and automated browser testing, free for Open Source"
+  },
+  {
+    "url": "https://www.everystep-automation.com/",
+    "name": "everystep-automation.com",
+    "category": "Automated Browser Testing",
+    "description": "Records and replays all steps made in a web browser and creates scripts,... free with fewer options"
+  },
+  {
+    "url": "https://applitools.com/",
+    "name": "Applitools.com",
+    "category": "Automated Browser Testing",
+    "description": "art visual validation for web, native mobile and desktop apps. Integrates with almost all automation solutions (like Selenium and Karma) and remote runners (Sauce Labs, Browser Stack). free for open source. A free tier for a single user with limited checkpoints per week."
+  },
+  {
+    "url": "https://www.checkbot.io/",
+    "name": "checkbot.io",
+    "category": "Automated Browser Testing",
+    "description": "Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Free tier for smaller websites."
+  },
+  {
+    "url": "https://pyup.io",
+    "name": "pyup.io",
+    "category": "Security and PKI",
+    "description": "Monitory Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source."
+  },
+  {
+    "url": "https://www.threatconnect.com",
+    "name": "threatconnect.com",
+    "category": "Security and PKI",
+    "description": "Threat intelligence: It is designed for individual researchers, analysts and organizations who are starting to learn about cyber threat intelligence. Free up to 3 Users"
+  },
+  {
+    "url": "https://www.crypteron.com/",
+    "name": "crypteron.com",
+    "category": "Security and PKI",
+    "description": "Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications"
+  },
+  {
+    "url": "https://snyk.io",
+    "name": "snyk.io",
+    "category": "Security and PKI",
+    "description": "Snyk found and reported several vulnerabilities in the package.Limited to 1 private project (unlimited for open source projects)"
+  },
+  {
+    "url": "https://letsencrypt.org/",
+    "name": "letsencrypt.org",
+    "category": "Security and PKI",
+    "description": "Free SSL Certificate Authority with certs trusted by all major browsers"
+  },
+  {
+    "url": "https://www.globalsign.com/en/ssl/ssl-open-source/",
+    "name": "globalsign.com",
+    "category": "Security and PKI",
+    "description": "Free SSL certificates for Open Source"
+  },
+  {
+    "url": "https://developer.okta.com/",
+    "name": "Okta",
+    "category": "Security and PKI",
+    "description": "User management, authentication and authorization. Free for up to 1000 monthly active users."
+  },
+  {
+    "url": "https://auth0.com/",
+    "name": "auth0.com",
+    "category": "Security and PKI",
+    "description": "Hosted free for development SSO"
+  },
+  {
+    "url": "https://ringcaptcha.com/",
+    "name": "ringcaptcha.com",
+    "category": "Security and PKI",
+    "description": "Tools to use phone number as id, available for free"
+  },
+  {
+    "url": "https://www.ssllabs.com/ssltest/",
+    "name": "ssllabs.com",
+    "category": "Security and PKI",
+    "description": "Very deep analysis of the configuration of any SSL web server"
+  },
+  {
+    "url": "https://www.qualys.com/forms/freescan/owasp/",
+    "name": "qualys.com",
+    "category": "Security and PKI",
+    "description": "Find web app vulnerabilities, audit for OWASP Risks"
+  },
+  {
+    "url": "https://www.alienvault.com/open-threat-exchange/reputation-monitor",
+    "name": "alienvault.com",
+    "category": "Security and PKI",
+    "description": "Uncovers compromised systems in your network"
+  },
+  {
+    "url": "https://duo.com/",
+    "name": "duo.com",
+    "category": "Security and PKI",
+    "description": "Two-factor authentication (2FA) for website or app. Free 10 users, all authentication methods, unlimited, integrations, hardware tokens"
+  },
+  {
+    "url": "https://www.tinfoilsecurity.com/",
+    "name": "tinfoilsecurity.com",
+    "category": "Security and PKI",
+    "description": "Automated vulnerability scanning. Free plan allows weekly XSS scans"
+  },
+  {
+    "url": "https://www.acunetix.com/free-network-security-scanner/",
+    "name": "acunetix.com",
+    "category": "Security and PKI",
+    "description": "Free vulnerability and network scanning for 3 targets"
+  },
+  {
+    "url": "https://www.ponycheckup.com/",
+    "name": "ponycheckup.com",
+    "category": "Security and PKI",
+    "description": "An automated security checkup tool for Django websites"
+  },
+  {
+    "url": "https://www.foxpass.com/",
+    "name": "foxpass.com",
+    "category": "Security and PKI",
+    "description": "Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs and wireless networks. Free for 10 users"
+  },
+  {
+    "url": "https://www.opswat.com/",
+    "name": "opswat.com",
+    "category": "Security and PKI",
+    "description": "Security Monitoring of computers, devices, applications, configurations,... Free 25 users and 30 days history"
+  },
+  {
+    "url": "https://bitninja.io/",
+    "name": "bitninja.io",
+    "category": "Security and PKI",
+    "description": "Botnet protection through a blacklist, free plan only reports limited information on each attack"
+  },
+  {
+    "url": "https://www.onelogin.com/",
+    "name": "onelogin.com",
+    "category": "Security and PKI",
+    "description": "Identity as a Service (IDaaS), Single Sign-On Identity Provider, Cloud SSO IdP, 3 company apps and 5 personal apps, unlimited users"
+  },
+  {
+    "url": "https://www.logintc.com/",
+    "name": "logintc.com",
+    "category": "Security and PKI",
+    "description": "Two-factor authentication (2FA) by push notifications, free for 10 users, VPN, Websites and SSH"
+  },
+  {
+    "url": "https://report-uri.io/",
+    "name": "report-uri.io",
+    "category": "Security and PKI",
+    "description": "CSP and HPKP violation reporting"
+  },
+  {
+    "url": "https://cloudsploit.com/",
+    "name": "cloudsploit.com",
+    "category": "Security and PKI",
+    "description": "Amazon Web Services (AWS) security and compliance auditing and monitoring"
+  },
+  {
+    "url": "https://haveibeenpwned.com",
+    "name": "Have I been pwned?",
+    "category": "Security and PKI",
+    "description": "REST API for fetching the information on the breaches."
+  },
+  {
+    "url": "https://internet.nl",
+    "name": "Internet.nl",
+    "category": "Security and PKI",
+    "description": "Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE"
+  },
+  {
+    "url": "https://observatory.mozilla.org/",
+    "name": "Mozilla Observatory",
+    "category": "Security and PKI",
+    "description": "Find and fix security vulnerabilities in your site."
+  },
+  {
+    "url": "https://bitnami.com/",
+    "name": "bitnami.com",
+    "category": "Management System",
+    "description": "Deploy prepared apps on IaaS. Management of 1 AWS micro instance free"
+  },
+  {
+    "url": "https://www.jamf.com/",
+    "name": "jamf.com",
+    "category": "Management System",
+    "description": "Device management for iPads, iPhones and Macs, 3 devices free"
+  },
+  {
+    "url": "https://logentries.com/",
+    "name": "logentries.com",
+    "category": "Log Management",
+    "description": "Free up to 5 GB/month with 7 days retention"
+  },
+  {
+    "url": "https://www.loggly.com/",
+    "name": "loggly.com",
+    "category": "Log Management",
+    "description": "Free for a single user, see the lite option"
+  },
+  {
+    "url": "https://logz.io/",
+    "name": "logz.io",
+    "category": "Log Management",
+    "description": "Free up to 1 GB/day, 3 days retention"
+  },
+  {
+    "url": "https://papertrailapp.com/",
+    "name": "papertrailapp.com",
+    "category": "Log Management",
+    "description": "48 hours search, 7 days archive, 100 MB/month"
+  },
+  {
+    "url": "https://rollbar.com",
+    "name": "rollbar.com",
+    "category": "Log Management",
+    "description": "Free up to 5000 events/month, 30 days retention"
+  },
+  {
+    "url": "https://sematext.com//logsene",
+    "name": "sematext.com",
+    "category": "Log Management",
+    "description": "Free up to 500 MB/day, 7 days retention"
+  },
+  {
+    "url": "https://www.sumologic.com/",
+    "name": "sumologic.com",
+    "category": "Log Management",
+    "description": "Free up to 500 MB/day, 7 days retention"
+  },
+  {
+    "url": "https://lingohub.com/",
+    "name": "lingohub.com",
+    "category": "Translation Management",
+    "description": "Free up to 3 users, always free for Open Source"
+  },
+  {
+    "url": "https://www.getlocalization.com/",
+    "name": "getlocalization.com",
+    "category": "Translation Management",
+    "description": "Free for public projects"
+  },
+  {
+    "url": "https://webtranslateit.com/",
+    "name": "webtranslateit.com",
+    "category": "Translation Management",
+    "description": "Free up to 500 strings"
+  },
+  {
+    "url": "https://www.transifex.com/",
+    "name": "transifex.com",
+    "category": "Translation Management",
+    "description": "Free for Open Source"
+  },
+  {
+    "url": "https://www.oneskyapp.com/",
+    "name": "oneskyapp.com",
+    "category": "Translation Management",
+    "description": "Limited free edition for up to 5 users, free for Open Source"
+  },
+  {
+    "url": "https://crowdin.com/",
+    "name": "crowdin.com",
+    "category": "Translation Management",
+    "description": "Unlimited projects, unlimited strings and collaborators for Open Source"
+  },
+  {
+    "url": "https://localise.biz/",
+    "name": "Loco",
+    "category": "Translation Management",
+    "description": "Free up to 2000 translations, Unlimited translators, 10 languages/project, 1000 translatable assets/project"
+  },
+  {
+    "url": "https://cloudSploit.com",
+    "name": "cloudsploit.com",
+    "category": "Monitoring",
+    "description": "\ncloudsploit.com — AWS security and configuration monitoring. Free: unlimited on-demand scans, unlimited users, unlimited stored accounts. Subscription: automated scanning, API access, etc\n"
+  },
+  {
+    "url": "https://www.elastic.co/solutions/apm",
+    "name": "elastic.co",
+    "category": "Monitoring",
+    "description": "\nelastic.co — ​Instant performance insights for JS developers. Free with 24 hours data retention\n"
+  },
+  {
+    "url": "https://www.appneta.com/",
+    "name": "appneta.com",
+    "category": "Monitoring",
+    "description": "\nappneta.com — Free with 1 hour data retention\n"
+  },
+  {
+    "url": "https://www.thousandeyes.com/",
+    "name": "thousandeyes.com",
+    "category": "Monitoring",
+    "description": "\nthousandeyes.com — Network and user experience monitoring. 3 locations and 20 data feeds of major web services free\n"
+  },
+  {
+    "url": "https://www.datadoghq.com/",
+    "name": "datadoghq.com",
+    "category": "Monitoring",
+    "description": "\ndatadoghq.com — Free for up to 5 nodes\n"
+  },
+  {
+    "url": "https://nodequery.com/",
+    "name": "nodequery.com",
+    "category": "Monitoring",
+    "description": "\nnodequery.com — Free basic server monitor up to 10 servers\n"
+  },
+  {
+    "url": "https://www.circonus.com/",
+    "name": "circonus.com",
+    "category": "Monitoring",
+    "description": "\ncirconus.com — Free for 20 metrics\n"
+  },
+  {
+    "url": "https://uptimerobot.com/",
+    "name": "uptimerobot.com",
+    "category": "Monitoring",
+    "description": "\nuptimerobot.com — Website monitoring, 50 monitors free\n"
+  },
+  {
+    "url": "https://www.statuscake.com/",
+    "name": "statuscake.com",
+    "category": "Monitoring",
+    "description": "\nstatuscake.com — Website monitoring, unlimited tests free with limitations\n"
+  },
+  {
+    "url": "https://www.bmc.com/truesightpulse/",
+    "name": "bmc.com",
+    "category": "Monitoring",
+    "description": "\nbmc.com — Free 1 second resolution for up to 10 servers\n"
+  },
+  {
+    "url": "https://ghostinspector.com/",
+    "name": "ghostinspector.com",
+    "category": "Monitoring",
+    "description": "\nghostinspector.com — Free website and web application monitoring. Single user, 100 test runs/month\n"
+  },
+  {
+    "url": "https://sematext.com/",
+    "name": "sematext.com",
+    "category": "Monitoring",
+    "description": "\nsematext.com — Free for 24 hours metrics, unlimited number of servers, 10 custom metrics, 500,000 custom metrics data points, unlimited dashboards, users, etc\n"
+  },
+  {
+    "url": "https://www.stathat.com/",
+    "name": "stathat.com",
+    "category": "Monitoring",
+    "description": "\nstathat.com — Get started with 10 stats for free, no expiration\n"
+  },
+  {
+    "url": "https://www.skylight.io/",
+    "name": "skylight.io",
+    "category": "Monitoring",
+    "description": "\nskylight.io — Free for first 100,000 requests (Rails only)\n"
+  },
+  {
+    "url": "https://www.appdynamics.com/",
+    "name": "appdynamics.com",
+    "category": "Monitoring",
+    "description": "\nappdynamics.com — Free for 24 hours metrics, application performance management agents limited to one Java, one .NET, one PHP and one Node.js\n"
+  },
+  {
+    "url": "https://deadmanssnitch.com/",
+    "name": "deadmanssnitch.com",
+    "category": "Monitoring",
+    "description": "\ndeadmanssnitch.com — Monitoring for cron jobs. 1 free snitch (monitor), more if you refer others to sign up\n"
+  },
+  {
+    "url": "https://www.librato.com/",
+    "name": "librato.com",
+    "category": "Monitoring",
+    "description": "\nlibrato.com — Free up to 100 metrics at 60 seconds resolution\n"
+  },
+  {
+    "url": "https://freeboard.io/",
+    "name": "freeboard.io",
+    "category": "Monitoring",
+    "description": "\nfreeboard.io — Free for public projects. Dashboards for your Internet of Things (IoT) projects\n"
+  },
+  {
+    "url": "https://loader.io/",
+    "name": "loader.io",
+    "category": "Monitoring",
+    "description": "\nloader.io — Free load testing tools with limitations\n"
+  },
+  {
+    "url": "https://probeapi.speedchecker.xyz/",
+    "name": "speedchecker.xyz",
+    "category": "Monitoring",
+    "description": "\nspeedchecker.xyz — Performance Monitoring API, checks Ping, DNS, etc\n"
+  },
+  {
+    "url": "https://blackfire.io/",
+    "name": "blackfire.io",
+    "category": "Monitoring",
+    "description": "\nblackfire.io — Blackfire is the SaaS-delivered Application Performance Solution. Free Hacker plan (PHP only)\n"
+  },
+  {
+    "url": "https://apimetrics.io/",
+    "name": "apimetrics.io",
+    "category": "Monitoring",
+    "description": "\napimetrics.io — Automated API Performance Monitoring, Testing and Analytics. Free Plan, manually make API calls and Run from their West Coast servers\n"
+  },
+  {
+    "url": "https://www.opsdash.com/",
+    "name": "opsdash.com",
+    "category": "Monitoring",
+    "description": "\nopsdash.com — Self-hoster server, clusters and services monitoring, free for 5 servers and 5 services\n"
+  },
+  {
+    "url": "https://healthchecks.io",
+    "name": "healthchecks.io",
+    "category": "Monitoring",
+    "description": "\nhealthchecks.io — Monitor your cron jobs and background tasks. Unlimited free checks\n"
+  },
+  {
+    "url": "https://appbeat.io",
+    "name": "appbeat.io",
+    "category": "Monitoring",
+    "description": "\nappbeat.io — Website monitoring, 3 monitors free. They offer very reliable and affordable monitor service.\n"
+  },
+  {
+    "url": "https://assertible.com",
+    "name": "assertible.com",
+    "category": "Monitoring",
+    "description": "\nassertible.com — Automated API testing and monitoring. Free plans for teams and individuals.\n"
+  },
+  {
+    "url": "https://letsmonitor.org/",
+    "name": "letsmonitor.org",
+    "category": "Monitoring",
+    "description": "\nletsmonitor.org — TLS certificate expiration and connectivity monitoring with email and SMS alerts.\n"
+  },
+  {
+    "url": "https://rollbar.com/",
+    "name": "rollbar.com",
+    "category": "Crash and Exception Handling",
+    "description": "Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention"
+  },
+  {
+    "url": "https://bugsnag.com/",
+    "name": "bugsnag.com",
+    "category": "Crash and Exception Handling",
+    "description": "Free for up to 2,000 errors/month after the initial trial"
+  },
+  {
+    "url": "https://sentry.io/",
+    "name": "sentry.io",
+    "category": "Crash and Exception Handling",
+    "description": "Sentry tracks app exceptions in real-time, has a small free plan. Free, unrestricted use if self-hosted"
+  },
+  {
+    "url": "https://www.algolia.com/",
+    "name": "algolia.com",
+    "category": "Search",
+    "description": "Hosted search-as-you-type (instant). Free hacker plan up to 10,000 documents and 100,000 operations. Bigger free plans available for community/Open Source projects"
+  },
+  {
+    "url": "https://swiftype.com/",
+    "name": "swiftype.com",
+    "category": "Search",
+    "description": "Hosted search solution (API and crawler). Free for a single search engine with up to 1,000 documents. Free upgrade to premium level for Open Source"
+  },
+  {
+    "url": "https://bonsai.io/",
+    "name": "bonsai.io",
+    "category": "Search",
+    "description": "Free 1 GB memory and 1 GB storage"
+  },
+  {
+    "url": "http://www.searchly.com/",
+    "name": "searchly.com",
+    "category": "Search",
+    "description": "Free 2 indices and 5 MB storage"
+  },
+  {
+    "url": "https://indexisto.com/",
+    "name": "indexisto.com",
+    "category": "Search",
+    "description": "Site search, free 10 million documents index limit with advertisement block"
+  },
+  {
+    "url": "https://www.mailinator.com/",
+    "name": "mailinator.com",
+    "category": "Email",
+    "description": "Free, public, email system where you can use any inbox you want"
+  },
+  {
+    "url": "https://www.sparkpost.com/",
+    "name": "sparkpost.com",
+    "category": "Email",
+    "description": "First 15,000 emails/month free"
+  },
+  {
+    "url": "https://www.mailgun.com/",
+    "name": "mailgun.com",
+    "category": "Email",
+    "description": "First 10,000 emails/month free"
+  },
+  {
+    "url": "https://tinyletter.com/",
+    "name": "tinyletter.com",
+    "category": "Email",
+    "description": "5,000 subscribers/month free"
+  },
+  {
+    "url": "https://mailchimp.com/",
+    "name": "mailchimp.com",
+    "category": "Email",
+    "description": "2,000 subscribers and 12,000 emails/month free"
+  },
+  {
+    "url": "https://sendgrid.com/",
+    "name": "sendgrid.com",
+    "category": "Email",
+    "description": "100 emails/day and 2,000 contacts free"
+  },
+  {
+    "url": "https://phplist.com/",
+    "name": "phplist.comMailerLite.com",
+    "category": "Email",
+    "description": "Hosted version allow 300 emails/month free\n*MailerLite.com — 1,000 subscribers/month, unlimited email free"
+  },
+  {
+    "url": "https://www.mailjet.com/",
+    "name": "mailjet.com",
+    "category": "Email",
+    "description": "6,000 emails/month free"
+  },
+  {
+    "url": "https://www.sendinblue.com/",
+    "name": "sendinblue.com",
+    "category": "Email",
+    "description": "9,000 emails/month free"
+  },
+  {
+    "url": "https://mailtrap.io/",
+    "name": "mailtrap.io",
+    "category": "Email",
+    "description": "Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules"
+  },
+  {
+    "url": "https://www.zoho.com/mail/",
+    "name": "zoho.com",
+    "category": "Email",
+    "description": "Free email management and collaboration for up to 25 users"
+  },
+  {
+    "url": "https://domain.yandex.com/domains_add/",
+    "name": "domain.yandex.com",
+    "category": "Email",
+    "description": "Free email and DNS hosting for up to 1,000 users"
+  },
+  {
+    "url": "https://moosend.com/",
+    "name": "moosend.com",
+    "category": "Email",
+    "description": "Mailing list management service. Free account for 6 months for startups"
+  },
+  {
+    "url": "https://debugmail.io/",
+    "name": "debugmail.io",
+    "category": "Email",
+    "description": "Easy to use testing mail server for developers"
+  },
+  {
+    "url": "https://mailboxlayer.com/",
+    "name": "mailboxlayer.com",
+    "category": "Email",
+    "description": "Email validation and verification JSON API for developers. 1,000 free API requests/month"
+  },
+  {
+    "url": "https://mailcatcher.me/",
+    "name": "mailcatcher.me",
+    "category": "Email",
+    "description": "Catches mail and serves it through a web interface"
+  },
+  {
+    "url": "http://www.yopmail.fr/en/",
+    "name": "yopmail.fr",
+    "category": "Email",
+    "description": "Disposable email addresses"
+  },
+  {
+    "url": "https://kickbox.io/",
+    "name": "kickbox.io",
+    "category": "Email",
+    "description": "Verify 100 emails free, real-time API available"
+  },
+  {
+    "url": "http://inumbo.com/",
+    "name": "inumbo.com",
+    "category": "Email",
+    "description": "SMTP based spam filter, free for 10 users"
+  },
+  {
+    "url": "https://biz.mail.ru/",
+    "name": "biz.mail.ru",
+    "category": "Email",
+    "description": "5,000 mailboxes with 25 GB each per custom domain with DNS hosting"
+  },
+  {
+    "url": "https://maildocker.com",
+    "name": "maildocker.com",
+    "category": "Email",
+    "description": "First 10,000 emails/month free"
+  },
+  {
+    "url": "https://sendpulse.com",
+    "name": "sendpulse.com",
+    "category": "Email",
+    "description": "50 emails free/hour, first 12,000 emails/month free"
+  },
+  {
+    "url": "https://www.pepipost.com",
+    "name": "pepipost.com",
+    "category": "Email",
+    "description": "Unlimited emails free for first three months, then first 25,000 emails/month free"
+  },
+  {
+    "url": "https://elasticemail.com",
+    "name": "elasticemail.com",
+    "category": "Email",
+    "description": "First 150,000 emails/month free"
+  },
+  {
+    "url": "https://www.mail-tester.com",
+    "name": "mail-tester.com",
+    "category": "Email",
+    "description": "Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month"
+  },
+  {
+    "url": "https://www.migadu.com/",
+    "name": "migadu.com",
+    "category": "Email",
+    "description": "Email Hosting (Webmail, SMTP, IMAP, ...) — free plan is limited to 10 outgoing mails/day"
+  },
+  {
+    "url": "https://www.cloudflare.com/",
+    "name": "cloudflare.com",
+    "category": "CDN and Protection",
+    "description": "Basic service is free, good for a blog, it also offers a free SSL certificate service"
+  },
+  {
+    "url": "https://www.bootstrapcdn.com/",
+    "name": "bootstrapcdn.com",
+    "category": "CDN and Protection",
+    "description": "CDN for bootstrap, bootswatch and fontawesome.io"
+  },
+  {
+    "url": "https://cdnjs.com/",
+    "name": "cdnjs.com",
+    "category": "CDN and Protection",
+    "description": "CDN for JavaScript libraries, CSS libraries, SWF, images, etc"
+  },
+  {
+    "url": "https://www.jsdelivr.com/",
+    "name": "jsdelivr.com",
+    "category": "CDN and Protection",
+    "description": "CDN of OSS (JS, CSS, fonts) for developers and webmasters, accepts PRs to add more"
+  },
+  {
+    "url": "https://developers.google.com/speed/libraries/",
+    "name": "developers.google.com",
+    "category": "CDN and Protection",
+    "description": "The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries"
+  },
+  {
+    "url": "https://www.asp.net/ajax/cdn/",
+    "name": "asp.net",
+    "category": "CDN and Protection",
+    "description": "The Microsoft Ajax CDN hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web application"
+  },
+  {
+    "url": "https://toranproxy.com/",
+    "name": "toranproxy.com",
+    "category": "CDN and Protection",
+    "description": "Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support"
+  },
+  {
+    "url": "https://rawgit.com/",
+    "name": "rawgit.com",
+    "category": "CDN and Protection",
+    "description": "Free limited traffic, serves raw files directly from GitHub with proper Content-Type headers"
+  },
+  {
+    "url": "https://www.incapsula.com/",
+    "name": "incapsula.com",
+    "category": "CDN and Protection",
+    "description": "Free CDN and DDoS protection"
+  },
+  {
+    "url": "https://www.fastly.com/",
+    "name": "fastly.com",
+    "category": "CDN and Protection",
+    "description": "Free CDN, all features until USD 50/month is reached, enough for most, then pay or suspended"
+  },
+  {
+    "url": "https://w.tools/",
+    "name": "Web Support Revolution",
+    "category": "CDN and Protection",
+    "description": "Free CDN, backup, firewall, antivirus and monitoring."
+  },
+  {
+    "url": "https://www.section.io/",
+    "name": "section.io",
+    "category": "CDN and Protection",
+    "description": "A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site"
+  },
+  {
+    "url": "https://www.netdepot.com/cdn/",
+    "name": "netdepot.com",
+    "category": "CDN and Protection",
+    "description": "First 100 GB free/month"
+  },
+  {
+    "url": "https://speeder.io/",
+    "name": "speeder.io",
+    "category": "CDN and Protection",
+    "description": "Uses KeyCDN. Automatic image optimization and free CDN boost. Free and does not require any server changes"
+  },
+  {
+    "url": "http://www.jare.io",
+    "name": "jare.io",
+    "category": "CDN and Protection",
+    "description": "You should log in using your GitHub account and register your domain. Uses AWS CloudFront"
+  },
+  {
+    "url": "https://wedeploy.com/",
+    "name": "wedeploy.com",
+    "category": "PaaS",
+    "description": "WeDeploy gives you predefined services that can speed up your development process. Free plan: 1 GB Transfer, 1 GB Memory, 1 CPU, 512 MB Storage, 2 Service Instances, 2 Projects"
+  },
+  {
+    "url": "https://cloud.google.com/appengine/",
+    "name": "cloud.google.com",
+    "category": "PaaS",
+    "description": "Google App Engine gives 28 instance hours/day free, 1 GB NoSQL database and more"
+  },
+  {
+    "url": "https://www.engineyard.com/",
+    "name": "engineyard.com",
+    "category": "PaaS",
+    "description": "Engine Yard provides 500 free hours"
+  },
+  {
+    "url": "https://azure.microsoft.com/",
+    "name": "azure.microsoft.com",
+    "category": "PaaS",
+    "description": "MS Azure gives USD 200 worth of free usage for a trial"
+  },
+  {
+    "url": "https://appharbor.com/",
+    "name": "appharbor.com",
+    "category": "PaaS",
+    "description": "A .Net PaaS that provides 1 free worker"
+  },
+  {
+    "url": "https://www.heroku.com/",
+    "name": "heroku.com",
+    "category": "PaaS",
+    "description": "Host your apps in the cloud, free for single process apps"
+  },
+  {
+    "url": "https://firebase.google.com",
+    "name": "firebase.google.com",
+    "category": "PaaS",
+    "description": "Build real-time apps, the free plan has 100 max connections, 10 GB data transfer, 1 GB data storage, 1 GB hosting storage and 10 GB hosting transfer"
+  },
+  {
+    "url": "https://console.ng.bluemix.net/",
+    "name": "bluemix.net",
+    "category": "PaaS",
+    "description": "IBM PaaS with a monthly free allowance"
+  },
+  {
+    "url": "https://www.outsystems.com/",
+    "name": "outsystems.com",
+    "category": "PaaS",
+    "description": "Enterprise web development PaaS for on-premise or cloud, free \"personal environment\" offering allows for unlimited code and up to 1 GB database"
+  },
+  {
+    "url": "https://scn.sap.com/docs/DOC-56411",
+    "name": "scn.sap.com",
+    "category": "PaaS",
+    "description": "The in-memory Platform-as-a-Service offering from SAP. Free developer accounts come with 1 GB structured, 1 GB unstructured, 1 GB of Git data and allow you to run HTML5, Java and HANA XS apps"
+  },
+  {
+    "url": "https://www.mendix.com/",
+    "name": "mendix.com",
+    "category": "PaaS",
+    "description": "Rapid Application Development for Enterprises, unlimited number of free sandbox environments supporting 10 users, 100 MB of files and 100 MB database storage each"
+  },
+  {
+    "url": "https://www.pythonanywhere.com/",
+    "name": "pythonanywhere.com",
+    "category": "PaaS",
+    "description": "Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database"
+  },
+  {
+    "url": "https://www.configure.it/",
+    "name": "configure.it",
+    "category": "PaaS",
+    "description": "Mobile app development platform, free for 2 projects, limited features but no resource limits"
+  },
+  {
+    "url": "https://zeit.co/now",
+    "name": "zeit.co/now",
+    "category": "PaaS",
+    "description": "Managed platform for Node.js, static sites and Docker deployments. Limited to 3 concurrent instances, 1 GB storage and 1 GB bandwidth for OSS projects (source files are exposed on a public URL)"
+  },
+  {
+    "url": "https://sandstorm.io/",
+    "name": "sandstorm.io",
+    "category": "PaaS",
+    "description": "Sandstorm is an open source operating system for personal and private clouds. Free plan offers 200 MB storage and 5 grains free"
+  },
+  {
+    "url": "https://www.gearhost.com/pricing",
+    "name": "gearhost.com",
+    "category": "PaaS",
+    "description": "Platform for .NET and PHP apps. 256 MB of RAM for free on a shared server with limited resources"
+  },
+  {
+    "url": "https://glitch.com/",
+    "name": "glitch.com",
+    "category": "PaaS",
+    "description": "Free unlimited public/private hosting with features such as code sharing and real-time collaboration"
+  },
+  {
+    "url": "https://www.blockspring.com/",
+    "name": "blockspring.com",
+    "category": "BaaS",
+    "description": "Cloud functions. Free for 5 million runs/month"
+  },
+  {
+    "url": "https://www.progress.com/kinvey",
+    "name": "postgress.com",
+    "category": "BaaS",
+    "description": "Mobile backend, starter plan has unlimited requests/second, with 1 GB of data storage. Enterprise application support"
+  },
+  {
+    "url": "https://backendless.com/",
+    "name": "backendless.com",
+    "category": "BaaS",
+    "description": "Mobile and Web Baas, with 1 GB file storage free, push notifications 50000/month, and 1000 data objects in table."
+  },
+  {
+    "url": "https://www.hasura.io/",
+    "name": "hasura.io",
+    "category": "BaaS",
+    "description": "Platform to build and deploy app backends fast, free for single node cluster."
+  },
+  {
+    "url": "https://pusher.com/beams/",
+    "name": "pusher.com",
+    "category": "BaaS",
+    "description": "Free, unlimited push notifications for 2000 monthly active users. A single API for iOS and Android devices."
+  },
+  {
+    "url": "https://layer.com/",
+    "name": "layer.com",
+    "category": "BaaS",
+    "description": "The full-stack building block for communications"
+  },
+  {
+    "url": "https://quickblox.com/",
+    "name": "quickblox.com",
+    "category": "BaaS",
+    "description": "A communication backend for instant messaging, video and voice calling and push notifications"
+  },
+  {
+    "url": "https://pushbots.com/",
+    "name": "pushbots.com",
+    "category": "BaaS",
+    "description": "Push notification service. Free for up to 1.5 million pushes/month"
+  },
+  {
+    "url": "https://onesignal.com/",
+    "name": "onesignal.com",
+    "category": "BaaS",
+    "description": "Unlimited free push notifications"
+  },
+  {
+    "url": "https://getstream.io/",
+    "name": "getstream.io",
+    "category": "BaaS",
+    "description": "Build scalable news feeds and activity streams in a few hours instead of weeks, free for 3 million feed updates/month"
+  },
+  {
+    "url": "https://tyk.io/",
+    "name": "tyk.io",
+    "category": "BaaS",
+    "description": "API management with authentication, quotas, monitoring and analytics. Free cloud offering"
+  },
+  {
+    "url": "https://www.iron.io/",
+    "name": "iron.io",
+    "category": "BaaS",
+    "description": "Async task processing (like AWS Lambda) with free tier and 1 month free trial"
+  },
+  {
+    "url": "https://www.nstack.com/",
+    "name": "nstack.com",
+    "category": "BaaS",
+    "description": "Async task processing (like AWS Lambda). 10 free private services and unlimited free public services"
+  },
+  {
+    "url": "https://www.pubnub.com/",
+    "name": "pubnub.com",
+    "category": "BaaS",
+    "description": "Free push notifications for up to 1 million messages/month and 100 active daily devices"
+  },
+  {
+    "url": "https://www.pushtechnology.com/",
+    "name": "pushtechnology.com",
+    "category": "BaaS",
+    "description": "Real-time Messaging for browsers, smartphones and everyone. 100 concurrent connections. Free 10 GB data/month"
+  },
+  {
+    "url": "https://webtask.io/",
+    "name": "webtask.io",
+    "category": "BaaS",
+    "description": "Run code with an HTTP call. No provisioning. No deployment"
+  },
+  {
+    "url": "https://zapier.com/",
+    "name": "zapier.com",
+    "category": "BaaS",
+    "description": "Connect the apps you use, to automate tasks. 5 zaps, every 15 minutes and 100 tasks/month"
+  },
+  {
+    "url": "https://stackstorm.com/",
+    "name": "stackstorm.com",
+    "category": "BaaS",
+    "description": "Event-driven automation for apps, services and workflows, free without flow, access control, LDAP,..."
+  },
+  {
+    "url": "https://simperium.com/",
+    "name": "simperium.com",
+    "category": "BaaS",
+    "description": "Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month"
+  },
+  {
+    "url": "https://pushcrew.com/",
+    "name": "pushcrew.com",
+    "category": "BaaS",
+    "description": "Push notification service. Unlimited notifications up to 2000 Subscribers"
+  },
+  {
+    "url": "https://streamdata.io/",
+    "name": "streamdata.io",
+    "category": "BaaS",
+    "description": "Turns any REST API into an event-driven streaming API. Free plan up to 1 million messages and 10 concurrent connections"
+  },
+  {
+    "url": "https://posthook.io/",
+    "name": "posthook.io",
+    "category": "BaaS",
+    "description": "Job Scheduling Service. Allows you to schedule requests for specific times. 500 scheduled requests/month free."
+  },
+  {
+    "url": "https://pages.github.com/",
+    "name": "pages.github.com",
+    "category": "Web Hosting",
+    "description": "Hosting static site directly from GitHub repository"
+  },
+  {
+    "url": "https://closeheat.com/",
+    "name": "closeheat.com",
+    "category": "Web Hosting",
+    "description": "Development Environment in the Cloud for Static Websites with Free Hosting and GitHub integration. 1 free website with custom domain support"
+  },
+  {
+    "url": "https://sourceforge.net/",
+    "name": "sourceforge.net",
+    "category": "Web Hosting",
+    "description": "Find, Create and Publish Open Source software for free"
+  },
+  {
+    "url": "http://devport.co/",
+    "name": "devport.co",
+    "category": "Web Hosting",
+    "description": "Turn GitHub projects, apps and websites into a personal developer portfolio"
+  },
+  {
+    "url": "https://www.netlify.com/",
+    "name": "netlify.com",
+    "category": "Web Hosting",
+    "description": "Builds, deploy and hosts static site or app, free for 100 GB data and 100 GB/month bandwidth"
+  },
+  {
+    "url": "https://www.sanity.io/",
+    "name": "sanity.io",
+    "category": "Web Hosting",
+    "description": "– Hosted backend for structured content with customizeable MIT licensed editor built with React. Unlimited projects. 3 users, 2 datasets, 500k API CDN requests, 5GB assets for free per project"
+  },
+  {
+    "url": "https://pantheon.io/",
+    "name": "pantheon.io",
+    "category": "Web Hosting",
+    "description": "Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies"
+  },
+  {
+    "url": "https://www.acquia.com/",
+    "name": "acquia.com",
+    "category": "Web Hosting",
+    "description": "Hosting for Drupal sites. Free tier for developers. Free development tools (such as Acquia Dev Desktop) also available"
+  },
+  {
+    "url": "https://readthedocs.org/",
+    "name": "readthedocs.org",
+    "category": "Web Hosting",
+    "description": "Free documentation hosting with versioning, PDF generation and more"
+  },
+  {
+    "url": "https://bubble.is/",
+    "name": "bubble.is",
+    "category": "Web Hosting",
+    "description": "Visual programming to build web and mobile apps without code, free 100 visitors/month, 2 apps"
+  },
+  {
+    "url": "https://www.contentful.com/",
+    "name": "contentful.com",
+    "category": "Web Hosting",
+    "description": "Content as a Service. Content management and delivery APIs in the cloud. 3 users, 3 repositories and 100,000 API requests/month for free"
+  },
+  {
+    "url": "https://tilda.cc/",
+    "name": "tilda.cc",
+    "category": "Web Hosting",
+    "description": "One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon and no custom domain"
+  },
+  {
+    "url": "https://surge.sh/",
+    "name": "surge.sh",
+    "category": "Web Hosting",
+    "description": "Static web publishing for Front-End developers. Unlimited sites with custom domain support"
+  },
+  {
+    "url": "https://neocities.org",
+    "name": "neocities.org",
+    "category": "Web Hosting",
+    "description": "Static, 1 GB free storage with 200 GB Bandwidth."
+  },
+  {
+    "url": "http://txti.es/",
+    "name": "txti.es",
+    "category": "Web Hosting",
+    "description": "Quickly create web pages with markdown."
+  },
+  {
+    "url": "https://www.openode.io/",
+    "name": "opeNode.io",
+    "category": "Web Hosting",
+    "description": "Free cloud hosting for open source projects."
+  },
+  {
+    "url": "https://freedns.afraid.org/",
+    "name": "freedns.afraid.org",
+    "category": "DNS",
+    "description": "Free DNS hosting"
+  },
+  {
+    "url": "https://dns.he.net/",
+    "name": "dns.he.net",
+    "category": "DNS",
+    "description": "Free DNS hosting service with Dynamic DNS Support"
+  },
+  {
+    "url": "https://www.luadns.com/",
+    "name": "luadns.com",
+    "category": "DNS",
+    "description": "Free DNS hosting, 3 domains, all features with reasonable limits"
+  },
+  {
+    "url": "https://domain.yandex.com/domains_add/",
+    "name": "domain.yandex.com",
+    "category": "DNS",
+    "description": "Free email and DNS hosting for up to 1,000 users"
+  },
+  {
+    "url": "https://selectel.com/services/dns/",
+    "name": "selectel.com",
+    "category": "DNS",
+    "description": "Free DNS hosting, anycast, 10 geo zones"
+  },
+  {
+    "url": "https://www.cloudns.net/",
+    "name": "cloudns.net",
+    "category": "DNS",
+    "description": "Free DNS hosting up to 3 domains with unlimited records"
+  },
+  {
+    "url": "https://ns1.com/",
+    "name": "ns1.com",
+    "category": "DNS",
+    "description": "Data Driven DNS, automatic traffic management, 1 million free queries"
+  },
+  {
+    "url": "https://zonewatcher.com",
+    "name": "zonewatcher.com",
+    "category": "DNS",
+    "description": "Automatic backups and DNS change monitoring. 1 domain free"
+  },
+  {
+    "url": "https://www.namecheap.com/domains/freedns.aspx",
+    "name": "namecheap.com",
+    "category": "DNS",
+    "description": "Free DNS. No limit on number of domains"
+  },
+  {
+    "url": "https://www.dynu.com/",
+    "name": "dynu.com",
+    "category": "DNS",
+    "description": "Free dynamic DNS service"
+  },
+  {
+    "url": "https://www.noip.com/",
+    "name": "noip",
+    "category": "DNS",
+    "description": "a dynamic dns service that allows up to 3 hostnames free with confirmation every 30 days"
+  },
+  {
+    "url": "https://freenom.com/",
+    "name": "freenom.com",
+    "category": "DNS",
+    "description": "Free domain provider. Get FQDN for free."
+  },
+  {
+    "url": "http://duckdns.org/",
+    "name": "duckdns.org",
+    "category": "DNS",
+    "description": "Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups."
+  },
+  {
+    "url": "https://www.1984.is/product/freedns/",
+    "name": "1984.is",
+    "category": "DNS",
+    "description": "- Free DNS service with API, and lots of other free DNS features included."
+  },
+  {
+    "url": "https://aws.amazon.com/free/",
+    "name": "aws.amazon.com",
+    "category": "IaaS",
+    "description": "AWS Free Tier, free for 12 months"
+  },
+  {
+    "url": "https://cloud.google.com/compute/",
+    "name": "cloud.google.com/compute",
+    "category": "IaaS",
+    "description": "Google Compute Engine gives USD 300 over 12 months"
+  },
+  {
+    "url": "https://backblaze.com/b2/",
+    "name": "backblaze.com",
+    "category": "IaaS",
+    "description": "Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time"
+  },
+  {
+    "url": "https://www.ibm.com/cloud/cloudant",
+    "name": "ibm.com",
+    "category": "DBaaS",
+    "description": "Hosted database from IBM, 1 GB free"
+  },
+  {
+    "url": "https://orchestrate.io/",
+    "name": "orchestrate.io",
+    "category": "DBaaS",
+    "description": "1 application free"
+  },
+  {
+    "url": "https://redislabs.com/redis-cloud",
+    "name": "redislabs.com",
+    "category": "DBaaS",
+    "description": "Redis as a Service, 30 MB and 30 concurrent connections free"
+  },
+  {
+    "url": "https://redsmin.com/",
+    "name": "redsmin.com",
+    "category": "DBaaS",
+    "description": "Online real-time monitoring and administration service for Redis, 1 Redis instance free"
+  },
+  {
+    "url": "https://graphstory.com/",
+    "name": "graphstory.com",
+    "category": "DBaaS",
+    "description": "GraphStory offers Neo4j (a Graph Database) as a service"
+  },
+  {
+    "url": "https://www.elephantsql.com/",
+    "name": "elephantsql.com",
+    "category": "DBaaS",
+    "description": "PostgreSQL as a service, 20 MB free"
+  },
+  {
+    "url": "https://www.graphenedb.com/",
+    "name": "graphenedb.com",
+    "category": "DBaaS",
+    "description": "Neo4j as a service, up to 1,000 nodes and 10,000 relations free"
+  },
+  {
+    "url": "https://www.mongodb.com/cloud/atlas",
+    "name": "MongoDB Atlas",
+    "category": "DBaaS",
+    "description": "free tier gives 512 MB"
+  },
+  {
+    "url": "https://scalingo.com/",
+    "name": "scalingo.com",
+    "category": "DBaaS",
+    "description": "Primarily a PaaS but offers a 512 MB free tier of MySQL, PostgreSQL or MongoDB"
+  },
+  {
+    "url": "https://skyvia.com/",
+    "name": "skyvia.com",
+    "category": "DBaaS",
+    "description": "Cloud Data Platform, offers free tier and all plans are completely free while in beta"
+  },
+  {
+    "url": "https://airtable.com/",
+    "name": "airtable.com",
+    "category": "DBaaS",
+    "description": "Looks like a spreadsheet, but it's a relational database, unlimited bases, 1,200 rows/base and 1,000 API requests/month"
+  },
+  {
+    "url": "https://www.spreadsheetdb.io",
+    "name": "spreadsheetdb.io",
+    "category": "DBaaS",
+    "description": "Database that can be queried with spreadsheets, 3 spreadsheets and 200 rows\nfree"
+  },
+  {
+    "url": "https://fauna.com/",
+    "name": "FaunaDB",
+    "category": "DBaaS",
+    "description": "is a distributed, multi-model, ACID-compliant, and globally scalable database, free tier gives 5 GB"
+  },
+  {
+    "url": "https://www.scaledrone.com/",
+    "name": "scaledrone.com",
+    "category": "STUN, WebRTC, Web Socket Servers and Other Routers",
+    "description": "Push messaging service. Free for up to 20 simultaneous connections and 100,000 messages/day"
+  },
+  {
+    "url": "https://pusher.com/",
+    "name": "pusher.com",
+    "category": "STUN, WebRTC, Web Socket Servers and Other Routers",
+    "description": "Realtime messaging service. Free for up to 100 simultaneous connections and 200,000 messages/day"
+  },
+  {
+    "url": "",
+    "name": "",
+    "category": "STUN, WebRTC, Web Socket Servers and Other Routers",
+    "description": "stun:stun.l.google.com:19302 — Google STUN"
+  },
+  {
+    "url": "",
+    "name": "",
+    "category": "STUN, WebRTC, Web Socket Servers and Other Routers",
+    "description": "stun:global.stun.twilio.com:3478?transport=udp — Twilio STUN"
+  },
+  {
+    "url": "https://segment.com/",
+    "name": "segment.com",
+    "category": "STUN, WebRTC, Web Socket Servers and Other Routers",
+    "description": "Hub to translate and route events to other third party services. 100,000 events/month free"
+  },
+  {
+    "url": "https://ngrok.com/",
+    "name": "ngrok.com",
+    "category": "STUN, WebRTC, Web Socket Servers and Other Routers",
+    "description": "Expose locally running servers over a tunnel to a public URL."
+  },
+  {
+    "url": "https://www.cloudamqp.com/",
+    "name": "cloudamqp.com",
+    "category": "STUN, WebRTC, Web Socket Servers and Other Routers",
+    "description": "RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's"
+  },
+  {
+    "url": "https://serveo.net/",
+    "name": "serveo.net",
+    "category": "STUN, WebRTC, Web Socket Servers and Other Routers",
+    "description": "Quickly expose any local port to the public internet on a servo subdomain using an SSH tunnel, includes SSH GUI to replay requests over HTTP."
+  },
+  {
+    "url": "https://www.zerotier.com",
+    "name": "ZeroTier",
+    "category": "STUN, WebRTC, Web Socket Servers and Other Routers",
+    "description": "FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 100 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks."
+  },
+  {
+    "url": "https://www.vpn.net/",
+    "name": "Hamachi",
+    "category": "STUN, WebRTC, Web Socket Servers and Other Routers",
+    "description": "LogMeIn Hamachi is a hosted VPN service that lets you securely extend LAN-like networks to distributed teams with free plan allows unlimited networks with up to 5 peoples"
+  },
+  {
+    "url": "https://webhookrelay.com",
+    "name": "webhookrelay.com",
+    "category": "STUN, WebRTC, Web Socket Servers and Other Routers",
+    "description": "Manage, debug, fan-out and proxy all your webhooks to public or internal (ie: localhost) destinations. Also, expose servers running in a private networks over a tunnel by getting a public HTTP endpoint (https://yoursubdomain.webrelay.io \u003c----\u003e http://localhost:8080)."
+  },
+  {
+    "url": "https://www.bitrix24.com/",
+    "name": "bitrix24.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Free intranet and project management tool"
+  },
+  {
+    "url": "https://www.pivotaltracker.com/",
+    "name": "pivotaltracker.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Pivotal Tracker, free for public projects"
+  },
+  {
+    "url": "https://kanbantool.com/",
+    "name": "kanbantool.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Kanban board based project management. Free, paid plans with more options"
+  },
+  {
+    "url": "https://kanbanflow.com/",
+    "name": "kanbanflow.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Board based project management. Free, premium version with more options"
+  },
+  {
+    "url": "https://zenhub.io/",
+    "name": "zenhub.io",
+    "category": "Issue Tracking and Project Management",
+    "description": "The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations"
+  },
+  {
+    "url": "https://trello.com/",
+    "name": "trello.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Board based project management. Free"
+  },
+  {
+    "url": "https://clickup.com/",
+    "name": "clickup.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available"
+  },
+  {
+    "url": "https://waffle.io/",
+    "name": "waffle.io",
+    "category": "Issue Tracking and Project Management",
+    "description": "Board based project management solution from your existing GitHub Issues, free for Open Source"
+  },
+  {
+    "url": "https://huboard.com/",
+    "name": "huboard.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Instant project management for your GitHub issues, free for Open Source"
+  },
+  {
+    "url": "https://taiga.io/",
+    "name": "taiga.io",
+    "category": "Issue Tracking and Project Management",
+    "description": "Project management platform for startups and agile developers, free for Open Source"
+  },
+  {
+    "url": "https://www.jetbrains.com/youtrack/buy",
+    "name": "jetbrains.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 10 users)"
+  },
+  {
+    "url": "https://github.com/",
+    "name": "github.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "In addition to its Git storage facility, GitHub offers basic issue tracking"
+  },
+  {
+    "url": "https://asana.com/",
+    "name": "asana.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Free for private project with collaborators"
+  },
+  {
+    "url": "https://acunote.com/",
+    "name": "acunote.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Free project management and SCRUM software for up to 5 team members"
+  },
+  {
+    "url": "https://gliffy.com/",
+    "name": "gliffy.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Online diagrams: flowchart, UML, wireframe,... Also plugins for Jira and Confluence. 5 diagrams and 2 MB free"
+  },
+  {
+    "url": "https://cacoo.com/",
+    "name": "cacoo.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Online diagrams in real-time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets"
+  },
+  {
+    "url": "https://www.draw.io/",
+    "name": "draw.io",
+    "category": "Issue Tracking and Project Management",
+    "description": "Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels"
+  },
+  {
+    "url": "https://www.visualstudio.com//products/what-is-visual-studio-online-vs",
+    "name": "visualstudio.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Unlimited free private code repositories; Tracks bugs, work items, feedback and more"
+  },
+  {
+    "url": "https://testlio.com/",
+    "name": "testlio.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Issue tracking, test management and beta testing platform. Free for private use"
+  },
+  {
+    "url": "https://vivifyscrum.com/",
+    "name": "vivifyscrum.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Free tool for Agile project management. Scrum Compatible"
+  },
+  {
+    "url": "https://targetprocess.com/",
+    "name": "targetprocess.commore details",
+    "category": "Issue Tracking and Project Management",
+    "description": "Visual project management, from Kanban and Scrum to almost any operational process. Free for unlimited users, up to 1,000 data entities {more details}"
+  },
+  {
+    "url": "https://overv.io/",
+    "name": "overv.io",
+    "category": "Issue Tracking and Project Management",
+    "description": "Agile project management for teams who love GitHub"
+  },
+  {
+    "url": "https://taskulu.com/",
+    "name": "taskulu.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Role based project management. Free up to 5 users. Integration with GitHub/Trello/Dropbox/Google Drive"
+  },
+  {
+    "url": "https://contriber.com/",
+    "name": "contriber.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Customizable project management platform, free starter plan, 5 workspaces"
+  },
+  {
+    "url": "https://planitpoker.com/",
+    "name": "planitpoker.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Free online planning poker (estimation tool)"
+  },
+  {
+    "url": "https://ubertesters.com/",
+    "name": "ubertesters.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Test platform, integration and crowdtesters, 2 projects, 5 members"
+  },
+  {
+    "url": "https://www.jetbrains.com/youtrack/buy/#edition=incloud",
+    "name": "jetbrains.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "h based on time tracking, attachments on Agile Board, and many other improvements. 10 users 5 GB free"
+  },
+  {
+    "url": "https://plan.io/",
+    "name": "plan.io",
+    "category": "Issue Tracking and Project Management",
+    "description": "Project Management with Repository Hosting and mor options. Free for 2 users with 10 customers and 500MB Storage"
+  },
+  {
+    "url": "https://taskade.com/",
+    "name": "taskade.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Real-time collaborative task lists and outlines for teams"
+  },
+  {
+    "url": "https://zenkit.com",
+    "name": "zenkit.com",
+    "category": "Issue Tracking and Project Management",
+    "description": "Project management and collaboration tool. Free for up to 5 members, 5 GB attachments."
+  },
+  {
+    "url": "https://instabug.com",
+    "name": "Instabug",
+    "category": "Issue Tracking and Project Management",
+    "description": "A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member."
+  },
+  {
+    "url": "https://developer.microsoft.com/en-us/office/dev-program",
+    "name": "Office 365 Developer",
+    "category": "Issue Tracking and Project Management",
+    "description": "- Free one-year Office 365 E3 subscription for development/testing."
+  },
+  {
+    "url": "https://aerofs.com/",
+    "name": "aerofs.com",
+    "category": "Storage and Media Processing",
+    "description": "P2P file syncing, free for up to 30 users"
+  },
+  {
+    "url": "https://cloudinary.com/",
+    "name": "cloudinary.com",
+    "category": "Storage and Media Processing",
+    "description": "Image upload, powerful manipulations, storage and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7,500 images/month, 2 GB storage, 5 GB bandwidth"
+  },
+  {
+    "url": "https://www.gumlet.com/",
+    "name": "gumlet.com",
+    "category": "Storage and Media Processing",
+    "description": "Image resize-as-a-service. It also optimizes images and performs delivery via CDN. Free tier includes 1 GB bandwidth and unlimited number of image processing every month for 1 year."
+  },
+  {
+    "url": "https://plot.ly/",
+    "name": "plot.ly",
+    "category": "Storage and Media Processing",
+    "description": "Graph and share your data. Free tier includes unlimited public files and 10 private files"
+  },
+  {
+    "url": "https://transloadit.com/",
+    "name": "transloadit.com",
+    "category": "Storage and Media Processing",
+    "description": "Handles file uploads and encoding of video, audio, images, documents. Free for Open Source and other do-gooders. Commercial applications get 1 GB free for test driving"
+  },
+  {
+    "url": "https://podio.com/",
+    "name": "podio.com",
+    "category": "Storage and Media Processing",
+    "description": "You can use Podio with a team of up to five people and try out the features of the Basic Plan, except users management"
+  },
+  {
+    "url": "https://shrinkray.io/",
+    "name": "shrinkray.io",
+    "category": "Storage and Media Processing",
+    "description": "Free image optimization of GitHub repos"
+  },
+  {
+    "url": "https://kraken.io/",
+    "name": "kraken.io",
+    "category": "Storage and Media Processing",
+    "description": "Image optimization for website performance as a service, free plan up to 1 MB file size"
+  },
+  {
+    "url": "https://placeholder.com/",
+    "name": "placeholder.com",
+    "category": "Storage and Media Processing",
+    "description": "A quick and simple image placeholder service"
+  },
+  {
+    "url": "https://placekitten.com/",
+    "name": "placekitten.com",
+    "category": "Storage and Media Processing",
+    "description": "A quick and simple service for getting pictures of kittens for use as placeholders"
+  },
+  {
+    "url": "https://embed.ly/",
+    "name": "embed.ly",
+    "category": "Storage and Media Processing",
+    "description": "Provides APIs for embedding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second"
+  },
+  {
+    "url": "https://otixo.com/",
+    "name": "otixo.com",
+    "category": "Storage and Media Processing",
+    "description": "Encrypt, share, copy and move all your cloud storage files from one place. Basic plan provides unlimited files transfer with 250 MB max. file size and allows 5 encrypted files"
+  },
+  {
+    "url": "https://tinypng.com/",
+    "name": "tinypng.com",
+    "category": "Storage and Media Processing",
+    "description": "API to compress and resize PNG and JPEG images, offers 500 compressions for free each month"
+  },
+  {
+    "url": "https://filestack.com/",
+    "name": "filestack.com",
+    "category": "Storage and Media Processing",
+    "description": "File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwidth"
+  },
+  {
+    "url": "https://packagecloud.io/",
+    "name": "packagecloud.io",
+    "category": "Storage and Media Processing",
+    "description": "Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans, open source plans available via request"
+  },
+  {
+    "url": "https://image-charts.com/",
+    "name": "image-charts.com",
+    "category": "Storage and Media Processing",
+    "description": "Unlimited image chart generation with a watermark"
+  },
+  {
+    "url": "https://jsonbin.io/",
+    "name": "jsonbin.io",
+    "category": "Storage and Media Processing",
+    "description": "Free JSON data storage service, ideal for small-scale web apps, website, mobile apps."
+  },
+  {
+    "url": "https://pixlr.com/",
+    "name": "pixlr.com",
+    "category": "Design and UI",
+    "description": "Free online browser editor on the level of commercial ones"
+  },
+  {
+    "url": "https://imagebin.ca/",
+    "name": "imagebin.ca",
+    "category": "Design and UI",
+    "description": "Pastebin for images"
+  },
+  {
+    "url": "https://cloudconvert.com/",
+    "name": "cloudconvert.com",
+    "category": "Design and UI",
+    "description": "Convert anything to anything. 208 supported formats including videos to gif"
+  },
+  {
+    "url": "https://resizeappicon.com/",
+    "name": "resizeappicon.com",
+    "category": "Design and UI",
+    "description": "A simple service to resize and manage your app icons"
+  },
+  {
+    "url": "https://vectr.com/",
+    "name": "vectr.com",
+    "category": "Design and UI",
+    "description": "Free Design App For Web + Desktop"
+  },
+  {
+    "url": "https://www.cleverbrush.com/",
+    "name": "clevebrush.com",
+    "category": "Design and UI",
+    "description": "Free Graphics Design / Photo Collage App, also they offer paid integration of it as component"
+  },
+  {
+    "url": "https://www.walkme.com/",
+    "name": "walkme.com",
+    "category": "Design and UI",
+    "description": "Enterprise Class Guidance and Engagement Platform, free plan 3 walk-thrus up to 5 steps/walk"
+  },
+  {
+    "url": "https://marvelapp.com/",
+    "name": "marvelapp.com",
+    "category": "Design and UI",
+    "description": "Design, prototyping and collaboration, free limited for 3 projects"
+  },
+  {
+    "url": "https://zeplin.io/",
+    "name": "Zeplin",
+    "category": "Design and UI",
+    "description": "Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project."
+  },
+  {
+    "url": "https://figma.com",
+    "name": "figma.com",
+    "category": "Design and UI",
+    "description": "Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and 3 projects"
+  },
+  {
+    "url": "https://designer.io/",
+    "name": "designer.io",
+    "category": "Design and UI",
+    "description": "Design tool for UI, illustrations and more. Has a native app. Free"
+  },
+  {
+    "url": "https://www.photopea.com",
+    "name": "photopea.com",
+    "category": "Design and UI",
+    "description": "- A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF \u0026 Sketch formats (Adobe Photoshop, Gimp and Sketch App)."
+  },
+  {
+    "url": "https://geocoder.opencagedata.com/",
+    "name": "geocoder.opencagedata.com",
+    "category": "Data Visualization on Maps",
+    "description": "Geocoding API that aggregates OpenStreetMap and other open geo sources. 2,500 free queries/day"
+  },
+  {
+    "url": "https://www.graphhopper.com/",
+    "name": "graphhopper.com",
+    "category": "Data Visualization on Maps",
+    "description": "A free package for developers is offered for Routing, Route Optimization, Distance Matrix, Geocoding, Map Matching."
+  },
+  {
+    "url": "https://datamaps.co/",
+    "name": "datamaps.co",
+    "category": "Data Visualization on Maps",
+    "description": "free platform for creating visualizations with data maps"
+  },
+  {
+    "url": "https://geocod.io/",
+    "name": "geocod.io",
+    "category": "Data Visualization on Maps",
+    "description": "Geocoding via API or CSV Upload. 2,500 free queries/day"
+  },
+  {
+    "url": "https://gogeo.io/",
+    "name": "gogeo.io",
+    "category": "Data Visualization on Maps",
+    "description": "Maps and geospatial services with an easy to use API and support for big data"
+  },
+  {
+    "url": "https://carto.com/",
+    "name": "carto.com",
+    "category": "Data Visualization on Maps",
+    "description": "Create maps and geospatial APIs from your data and public data"
+  },
+  {
+    "url": "https://giscloud.com/",
+    "name": "giscloud.com",
+    "category": "Data Visualization on Maps",
+    "description": "Visualize, analyze and share geo data online"
+  },
+  {
+    "url": "https://mapbox.com/",
+    "name": "mapbox.com",
+    "category": "Data Visualization on Maps",
+    "description": "Maps, geospatial services and SDKs for displaying map data"
+  },
+  {
+    "url": "https://osmnames.org/",
+    "name": "osmnames",
+    "category": "Data Visualization on Maps",
+    "description": "Geocoding, search results ranked by the popularity of related Wikipedia page"
+  },
+  {
+    "url": "https://www.tilehosting.com/",
+    "name": "tilehosting",
+    "category": "Data Visualization on Maps",
+    "description": "Vector maps, map services and SDKs for map visualisation. Free vector tiles with weekly update and four map styles."
+  },
+  {
+    "url": "https://developer.here.com/",
+    "name": "here",
+    "category": "Data Visualization on Maps",
+    "description": "APIs and SDKs for maps and location-aware apps. 250k transactions/month for free."
+  },
+  {
+    "url": "https://build.opensuse.org/",
+    "name": "build.opensuse.org",
+    "category": "Package Build System",
+    "description": "Package build service for multiple distros (SUSE, EL, Fedora, Debian etc.)"
+  },
+  {
+    "url": "https://copr.fedorainfracloud.org",
+    "name": "copr.fedorainfracloud.org",
+    "category": "Package Build System",
+    "description": "Mock-based RPM build service for Fedora and EL"
+  },
+  {
+    "url": "https://help.launchpad.net/Packaging",
+    "name": "help.launchpad.net",
+    "category": "Package Build System",
+    "description": "Ubuntu and Debian build service"
+  },
+  {
+    "url": "https://codeanywhere.com/",
+    "name": "codeanywhere.com",
+    "category": "IDE and Code Editing",
+    "description": "Full IDE in the browser and mobile apps. Access FTP, SFTP, Dropbox, Google Drive, GitHub and BitBucket. Hosted virtual machines with terminal access. Collaboration features like share links, live editing, permissions and version tracking (free tier includes 256MB RAM, 2GB HDD, 1 remote connection, no always on machine)"
+  },
+  {
+    "url": "https://codenvy.com/",
+    "name": "codenvy.com",
+    "category": "IDE and Code Editing",
+    "description": "IDE and automated developer workspaces in a browser, collaborative, Git/SVN integration, build and run your app in customizable Docker-based runners (free tier includes: 3 GB RAM, ability to run multiple machines simultaneously), pre-integrated deploy to Google Apps"
+  },
+  {
+    "url": "https://visualstudio.com/community",
+    "name": "visualstudio.com",
+    "category": "IDE and Code Editing",
+    "description": "Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)"
+  },
+  {
+    "url": "https://cocalc.com/",
+    "name": "cocalc.com",
+    "category": "IDE and Code Editing",
+    "description": "(formerly SageMathCloud at cloud.sagemath.com) — Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc"
+  },
+  {
+    "url": "https://wakatime.com/",
+    "name": "wakatime.com",
+    "category": "IDE and Code Editing",
+    "description": "Quantified self-metrics about your coding activity, using text editor plugins, limited plan for free"
+  },
+  {
+    "url": "https://apiary.io/",
+    "name": "apiary.io",
+    "category": "IDE and Code Editing",
+    "description": "Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)"
+  },
+  {
+    "url": "https://www.mockable.io/",
+    "name": "mockable.io",
+    "category": "IDE and Code Editing",
+    "description": "Mockable is a simple configurable service to mock out RESTful API or SOAP web-services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data"
+  },
+  {
+    "url": "https://fakejson.com/",
+    "name": "fakejson.com",
+    "category": "IDE and Code Editing",
+    "description": "FakeJSON helps you quickly generate fake data using its API. Make an API request describing what you want and how you want it. The API returns it all in JSON. Speed up the go to market process for ideas and fake it till you make it."
+  },
+  {
+    "url": "http://jsonplaceholder.typicode.com/",
+    "name": "JSONPlaceholder",
+    "category": "IDE and Code Editing",
+    "description": "me REST API endpoints that return some fake data in JSON format. The source code is also available if you would like to run the server locally."
+  },
+  {
+    "url": "https://jetbrains.com/products.html",
+    "name": "jetbrains.com",
+    "category": "IDE and Code Editing",
+    "description": "Productivity tools, IDEs and deploy tools. Free license for students, teachers, Open Source and user groups"
+  },
+  {
+    "url": "https://codepen.io/",
+    "name": "codepen.io",
+    "category": "IDE and Code Editing",
+    "description": "CodePen is a playground for the front end side of the web"
+  },
+  {
+    "url": "https://repl.it/",
+    "name": "repl.it",
+    "category": "IDE and Code Editing",
+    "description": "A cloud coding environment for various program languages"
+  },
+  {
+    "url": "https://codesandbox.io/",
+    "name": "codesandbox.io",
+    "category": "IDE and Code Editing",
+    "description": "Online React playground"
+  },
+  {
+    "url": "https://stackblitz.com/",
+    "name": "stackblitz.com",
+    "category": "IDE and Code Editing",
+    "description": "Online VS Code IDE for Angular \u0026 React"
+  },
+  {
+    "url": "https://www.cacher.io",
+    "name": "cacher.io",
+    "category": "IDE and Code Editing",
+    "description": "- Code snippet organizer with labels and support for 100+ programming languages"
+  },
+  {
+    "url": "https://analytics.google.com/",
+    "name": "analytics.google.com",
+    "category": "Analytics, Events and Statistics",
+    "description": "Google Analytics"
+  },
+  {
+    "url": "https://heapanalytics.com/",
+    "name": "heapanalytics.com",
+    "category": "Analytics, Events and Statistics",
+    "description": "Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits/month"
+  },
+  {
+    "url": "https://sematext.com//search-analytics",
+    "name": "sematext.com",
+    "category": "Analytics, Events and Statistics",
+    "description": "Free for up to 50 K actions/month, 1 day data retention, unlimited dashboards, users, etc"
+  },
+  {
+    "url": "https://usabilityhub.com/",
+    "name": "usabilityhub.com",
+    "category": "Analytics, Events and Statistics",
+    "description": "Test designs and mockups on real people, track visitors. Free for one user, unlimited tests"
+  },
+  {
+    "url": "https://mixpanel.com/",
+    "name": "mixpanel.com",
+    "category": "Analytics, Events and Statistics",
+    "description": "Free 25,000 points or 200,000 with their badge on your site"
+  },
+  {
+    "url": "https://amplitude.com/",
+    "name": "amplitude.com",
+    "category": "Analytics, Events and Statistics",
+    "description": "1 million monthly events, up to 2 apps"
+  },
+  {
+    "url": "https://keen.io/",
+    "name": "keen.io",
+    "category": "Analytics, Events and Statistics",
+    "description": "Custom Analytics for data collection, analysis and visualization. 50,000 events/month free"
+  },
+  {
+    "url": "https://metrica.yandex.com/",
+    "name": "metrica.yandex.com",
+    "category": "Analytics, Events and Statistics",
+    "description": "Unlimited free analytics"
+  },
+  {
+    "url": "https://hotjar.com/",
+    "name": "hotjar.com",
+    "category": "Analytics, Events and Statistics",
+    "description": "Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,..."
+  },
+  {
+    "url": "https://imprace.com/",
+    "name": "imprace.com",
+    "category": "Analytics, Events and Statistics",
+    "description": "Landing page analysis with suggestions to improve bounce rates. Free 5 landing pages/domain"
+  },
+  {
+    "url": "https://optimizely.com",
+    "name": "optimizely.com",
+    "category": "Analytics, Events and Statistics",
+    "description": "A/B Testing solution, free starter plan, 1 website, 1 iOS and 1 Android app"
+  },
+  {
+    "url": "https://expensify.com/",
+    "name": "expensify.com",
+    "category": "Analytics, Events and Statistics",
+    "description": "Expense reporting, free personal reporting approval workflow"
+  },
+  {
+    "url": "https://www.moesif.com",
+    "name": "Moesif",
+    "category": "Analytics, Events and Statistics",
+    "description": "API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)"
+  },
+  {
+    "url": "https://inspectlet.com/",
+    "name": "inspectlet.com",
+    "category": "Visitor Session Recording",
+    "description": "100 sessions/month free for 1 website"
+  },
+  {
+    "url": "https://mousestats.com/",
+    "name": "mousestats.com",
+    "category": "Visitor Session Recording",
+    "description": "100 sessions/month free for 1 website"
+  },
+  {
+    "url": "https://hotjar.com/",
+    "name": "hotjar.com",
+    "category": "Visitor Session Recording",
+    "description": "Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,..."
+  },
+  {
+    "url": "https://www.usersurge.com/",
+    "name": "usersurge.com",
+    "category": "Visitor Session Recording",
+    "description": "250K sessions per month for individuals."
+  },
+  {
+    "url": "https://cognalys.com/",
+    "name": "cognalys.com",
+    "category": "International Mobile Number Verification API and SDK",
+    "description": "Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free 10 tries and 15 verifications/day"
+  },
+  {
+    "url": "https://numverify.com/",
+    "name": "numverify.com",
+    "category": "International Mobile Number Verification API and SDK",
+    "description": "Global phone number validation and lookup JSON API. 250 API requests/month"
+  },
+  {
+    "url": "https://braintreepayments.com/",
+    "name": "braintreepayments.com",
+    "category": "Payment / Billing Integration",
+    "description": "Credit Card, Paypal, Venmo, Bitcoin, Apple Pay,... integration. Single and Recurrent Payments. First USD 50,000 free"
+  },
+  {
+    "url": "https://currencylayer.com/",
+    "name": "currencylayer.com",
+    "category": "Payment / Billing Integration",
+    "description": "Reliable Exchange Rates and Currency Conversion for your Business, 1,000 API requests/month free"
+  },
+  {
+    "url": "https://vatlayer.com/",
+    "name": "vatlayer.com",
+    "category": "Payment / Billing Integration",
+    "description": "Instant VAT number validation and EU VAT rates API, free 100 API requests/month"
+  },
+  {
+    "url": "https://www.fraudlabspro.com",
+    "name": "fraudlabspro.com",
+    "category": "Payment / Billing Integration",
+    "description": "Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month."
+  },
+  {
+    "url": "https://www.openshift.com/",
+    "name": "openshift.com",
+    "category": "Docker Related",
+    "description": "Container platform based on Docker and Kubernetes. Free for 2 vCPU, 1GiB Memory, 1GiB Storage."
+  },
+  {
+    "url": "https://cloud.docker.com",
+    "name": "Docker Cloud",
+    "category": "Docker Related",
+    "description": "Manages the deployments of Docker containers to your (separate) cloud environment with one free repository"
+  },
+  {
+    "url": "https://hub.docker.com",
+    "name": "Docker Hub",
+    "category": "Docker Related",
+    "description": "One free private repository and unlimited public repositories to build and store Docker images"
+  },
+  {
+    "url": "https://quay.io/",
+    "name": "quay.io",
+    "category": "Docker Related",
+    "description": "Build and store container images with unlimited free public repositories"
+  },
+  {
+    "url": "https://canister.io/",
+    "name": "canister.io",
+    "category": "Docker Related",
+    "description": "20 free private repositories for developers, 30 free private repositories for teams to build and store Docker images"
+  },
+  {
+    "url": "https://github.com/Gueils/whales",
+    "name": "Whales",
+    "category": "Docker Related",
+    "description": "A tool to automatically dockerize your applications for free."
+  },
+  {
+    "url": "https://labs.play-with-docker.com/",
+    "name": "PWD",
+    "category": "Docker Related",
+    "description": "lay with Docker. A simple, interactive and fun playground to learn Docker"
+  },
+  {
+    "url": "https://www.vagrantbox.es/",
+    "name": "vagrantbox.es",
+    "category": "Vagrant Related",
+    "description": "An alternative public box index"
+  },
+  {
+    "url": "https://www.apichangelog.com/",
+    "name": "apichangelog.com",
+    "category": "Miscellaneous",
+    "description": "Subscribe to be notified each time API Documentation is updated (Facebook, Twitter, Google,...)"
+  },
+  {
+    "url": "https://www.docsapp.io/",
+    "name": "docsapp.io",
+    "category": "Miscellaneous",
+    "description": "Easiest way to publish documentation, free for Open Source"
+  },
+  {
+    "url": "https://fullcontact.com/developer/pricing/",
+    "name": "fullcontact.com",
+    "category": "Miscellaneous",
+    "description": "Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches/month"
+  },
+  {
+    "url": "https://formlets.com/",
+    "name": "formlets.com",
+    "category": "Miscellaneous",
+    "description": "Online forms, unlimited single page forms/month, 100 submissions/month, email notifications"
+  },
+  {
+    "url": "https://superfeedr.com/",
+    "name": "superfeedr.com",
+    "category": "Miscellaneous",
+    "description": "Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization"
+  },
+  {
+    "url": "https://screenshotlayer.com/",
+    "name": "screenshotlayer.com",
+    "category": "Miscellaneous",
+    "description": "Capture highly customizable snapshots of any website. Free 100 snapshots/month"
+  },
+  {
+    "url": "https://screenshotmachine.com/",
+    "name": "screenshotmachine.com",
+    "category": "Miscellaneous",
+    "description": "Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page"
+  },
+  {
+    "url": "https://readme.io/",
+    "name": "readme.iohere",
+    "category": "Miscellaneous",
+    "description": "Beautiful documentation made easy, free for Open Source: see here."
+  },
+  {
+    "url": "https://formaholic.com",
+    "name": "formaholic.com",
+    "category": "Miscellaneous",
+    "description": "Simple form endpoint. Perfect for static sites"
+  },
+  {
+    "url": "https://http2.pro",
+    "name": "http2.pro",
+    "category": "Miscellaneous",
+    "description": "HTTP/2 protocol readiness test and client HTTP/2 support detection API."
+  },
+  {
+    "url": "https://formspree.io/",
+    "name": "Formspree.io",
+    "category": "Miscellaneous",
+    "description": "Send email using an HTTP POST request. Free tier limits to 1000 submissions per month and must expose email address in the API call."
+  },
+  {
+    "url": "https://www.typeform.com/",
+    "name": "Typeform.com",
+    "category": "Miscellaneous",
+    "description": "Include beautifully designed forms on websites.  Free plan allows only 10 fields per form and 100 responses per month."
+  },
+  {
+    "url": "https://www.surveymonkey.com",
+    "name": "SurveyMonkey.com",
+    "category": "Miscellaneous",
+    "description": "Create online surveys. Analyze the results online.  Free plan allows only 10 questions and 100 responses per survey."
+  },
+  {
+    "url": "https://www.scraperapi.com/",
+    "name": "Scraper API",
+    "category": "APIs, Data and ML",
+    "description": "Cloud based web scraping API handles proxies, browsers, and CAPTCHAs. Scrape any web page with a simple API call. Get started with 1000 free API calls/month."
+  },
+  {
+    "url": "https://dreamfactory.com/",
+    "name": "dreamfactory.com",
+    "category": "APIs, Data and ML",
+    "description": "Open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service and it instantly creates a comprehensive REST API platform with live documentation, user management,..."
+  },
+  {
+    "url": "https://monkeylearn.com/",
+    "name": "monkeylearn.com",
+    "category": "APIs, Data and ML",
+    "description": "Text analysis with machine learning, free 300 queries/month"
+  },
+  {
+    "url": "https://wit.ai/",
+    "name": "wit.ai",
+    "category": "APIs, Data and ML",
+    "description": "NLP for developers"
+  },
+  {
+    "url": "https://wolfram.com/language/",
+    "name": "wolfram.com",
+    "category": "APIs, Data and ML",
+    "description": "Built-in knowledge-based algorithms in the cloud"
+  },
+  {
+    "url": "https://parsehub.com/",
+    "name": "parsehub.com",
+    "category": "APIs, Data and ML",
+    "description": "Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free"
+  },
+  {
+    "url": "https://wrapapi.com/",
+    "name": "wrapapi.com",
+    "category": "APIs, Data and ML",
+    "description": "Turn any website into a parameterized API"
+  },
+  {
+    "url": "https://algorithmia.com/",
+    "name": "algorithmia.com",
+    "category": "APIs, Data and ML",
+    "description": "Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support"
+  },
+  {
+    "url": "https://bigml.com/",
+    "name": "bigml.com",
+    "category": "APIs, Data and ML",
+    "description": "Hosted machine learning algorithms. Unlimited free tasks for development, limit of 16 MB data/task"
+  },
+  {
+    "url": "https://konghq.com/",
+    "name": "konghq.com/",
+    "category": "APIs, Data and ML",
+    "description": "API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support"
+  },
+  {
+    "url": "https://www.dominodatalab.com",
+    "name": "dominodatalab.com",
+    "category": "APIs, Data and ML",
+    "description": "Data science with support for Python, R, Spark, Hadoop, Matlab and others"
+  },
+  {
+    "url": "https://www.havenondemand.com",
+    "name": "havenondemand.com",
+    "category": "APIs, Data and ML",
+    "description": "APIs for machine learning"
+  },
+  {
+    "url": "https://restlet.com/products/apispark/",
+    "name": "restlet.com",
+    "category": "APIs, Data and ML",
+    "description": "APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface"
+  },
+  {
+    "url": "https://scrapinghub.com",
+    "name": "scrapinghub.com",
+    "category": "APIs, Data and ML",
+    "description": "Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server"
+  },
+  {
+    "url": "https://context.io",
+    "name": "context.io",
+    "category": "APIs, Data and ML",
+    "description": "Create simple email webhooks and code against a free, RESTful, IMAP API to leverage email data"
+  },
+  {
+    "url": "https://www.apify.com/",
+    "name": "Apify",
+    "category": "APIs, Data and ML",
+    "description": "Web scraping and automation platform that lets you create an API extracting websites data. Free tier with 10k monthly crawls and 7 days data retention."
+  },
+  {
+    "url": "https://www.diggernaut.com/",
+    "name": "Diggernaut",
+    "category": "APIs, Data and ML",
+    "description": "Cloud based web scraping and data extraction platform for turning any website to the dataset or to work with it as with an API. Free plan includes 5K page requests monthly."
+  },
+  {
+    "url": "https://colab.research.google.com",
+    "name": "Colaboratory",
+    "category": "APIs, Data and ML",
+    "description": "Free web-based Python notebook environment with Nvidia Tesla K80 GPU."
+  },
+  {
+    "url": "https://tamber.com",
+    "name": "tamber",
+    "category": "APIs, Data and ML",
+    "description": "Put deep-learning powered recommendations in your app. Free 5k monthly active users."
+  },
+  {
+    "url": "https://github.com/httpsGithubParty/FOSS-for-Dev",
+    "name": "github.com — FOSS for Dev",
+    "category": "Other Free Resources",
+    "description": "A hub of free and Open Source software for developers"
+  },
+  {
+    "url": "https://getawesomeness.herokuapp.com",
+    "name": "getawesomeness",
+    "category": "Other Free Resources",
+    "description": "Retrieve all amazing awesomeness from GitHub... a must see"
+  },
+  {
+    "url": "https://education.github.com/pack",
+    "name": "education.github.com",
+    "category": "Other Free Resources",
+    "description": "Collection of free services for students. Registration required"
+  }
+]
