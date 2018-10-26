@@ -1,5 +1,5 @@
-import React from 'react'
-import styled from 'styled-components'
+import React from 'react';
+import styled from 'styled-components';
 //
 
 const ButtonStyle = styled.button`
@@ -7,9 +7,9 @@ const ButtonStyle = styled.button`
   cursor: pointer;
   outline: none;
   background: ${({ disabled }) => (disabled ? 'hsl(0,0%,90%)' : 'none')};
-`
+`;
 
-const LinkButton = ButtonStyle.withComponent('a')
+const LinkButton = ButtonStyle.withComponent('a');
 
 export const Button = ({ href, disabled, style: customStyle, ...props }) =>
   href ? (
@@ -21,4 +21,6 @@ export const Button = ({ href, disabled, style: customStyle, ...props }) =>
     <ButtonStyle {...props} style={customStyle} disabled={disabled}>
       {props.text || props.children}
     </ButtonStyle>
-  )
+  );
+
+export default Button;

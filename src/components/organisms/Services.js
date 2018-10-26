@@ -15,9 +15,6 @@ const toCategoriesList = pipe(
 );
 
 const ServicesListStyled = styled(ListView)`
-  // > *:last-child {
-  //   margin-right: auto;
-  // }
   &::after {
     content: '';
     flex: auto;

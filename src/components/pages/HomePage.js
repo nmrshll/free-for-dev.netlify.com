@@ -8,6 +8,10 @@ import ContentSection from '~/components/molecules/ContentSection';
 
 const Filters = () => <div>filters</div>;
 
+const ContentSectionStyled = styled(ContentSection)`
+  background-color: hsl(220, 50%, 97%);
+`;
+
 const HomePageStyle = styled.div`
   height: 100vh;
   > .main {
@@ -25,9 +29,9 @@ const HomePageStyle = styled.div`
 export default () => (
   <HomePageStyle>
     <Header />
-    <ContentSection large>
+    <ContentSectionStyled large>
       <Filters />
       <Services />
-    </ContentSection>
+    </ContentSectionStyled>
   </HomePageStyle>
 );

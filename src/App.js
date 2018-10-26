@@ -3,7 +3,9 @@ import { Router } from 'react-static';
 import styled, { injectGlobal } from 'styled-components';
 import { hot } from 'react-hot-loader';
 import Routes from 'react-static-routes';
+import { Provider as ReduxProvider } from 'react-redux';
 //
+import store from './data/store';
 import '~/styles/tailwind.build.css';
 
 injectGlobal`
@@ -21,15 +23,17 @@ injectGlobal`
   }
 `;
 
-const AppStyles = styled.div`
-  background-color: hsl(220, 50%, 99%);
-`;
+// const AppStyled = styled.div`
+//   background-color: hsl(220, 50%, 97%);
+// `;
 
 const App = () => (
   <Router>
-    <AppStyles>
-      <Routes />
-    </AppStyles>
+    <ReduxProvider store={store}>
+      <App>
+        <Routes />
+      </App>
+    </ReduxProvider>
   </Router>
 );
 

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { ServerStyleSheet } from 'styled-components';
 //
-import servicesData from './src/data/services.scraped.json';
+import servicesData from './src/data/sources/services.scraped.json';
 
 export default {
   getSiteData: () => ({
