@@ -8,12 +8,9 @@ import ContentSection from '~/components/molecules/ContentSection';
 
 const Filters = () => <div>filters</div>;
 
-const ContentSectionStyled = styled(ContentSection)`
-  background-color: hsl(220, 50%, 97%);
-`;
-
 const HomePageStyle = styled.div`
-  height: 100vh;
+  min-height: 100vh;
+  background-color: hsl(220, 80%, 98%);
   > .main {
     display: flex;
     flex-flow: column nowrap;
@@ -29,9 +26,9 @@ const HomePageStyle = styled.div`
 export default () => (
   <HomePageStyle>
     <Header />
-    <ContentSectionStyled large>
+    <ContentSection large>
       <Filters />
       <Services />
-    </ContentSectionStyled>
+    </ContentSection>
   </HomePageStyle>
 );

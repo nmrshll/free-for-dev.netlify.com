@@ -23,16 +23,10 @@ injectGlobal`
   }
 `;
 
-// const AppStyled = styled.div`
-//   background-color: hsl(220, 50%, 97%);
-// `;
-
 const App = () => (
   <Router>
     <ReduxProvider store={store}>
-      <App>
-        <Routes />
-      </App>
+      <Routes />
     </ReduxProvider>
   </Router>
 );
