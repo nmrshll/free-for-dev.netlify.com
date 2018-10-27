@@ -20,6 +20,14 @@ const contentPageStore = kea({
         [actions.setCategory]: (state, payload) => payload.categoryTitle,
       },
     ],
+    categoriesFilter: [
+      [],
+      PropTypes.arrayOf(PropTypes.string),
+      {
+        [actions.setCategory]: (state, payload) =>
+          state.concat(payload.categoryTitle),
+      },
+    ],
   }),
   takeLatest: ({ actions, workers }) => ({
     // [actions.submitNewPageTitle]: workers.createNewPage,
