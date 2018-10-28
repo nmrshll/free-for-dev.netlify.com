@@ -6,7 +6,7 @@ import Services from '~/components/organisms/Services';
 import { Media } from '~/styles';
 import ContentSection from '~/components/molecules/ContentSection';
 
-const Filters = () => <div>filters</div>;
+const Filters = () => <div />;
 
 const HomePageStyle = styled.div`
   min-height: 100vh;
