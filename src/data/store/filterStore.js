@@ -3,8 +3,7 @@ import PropTypes from 'prop-types';
 // import axios from 'axios'
 // import { put } from 'redux-saga/effects'
 // import { delay } from 'redux-saga'
-import { append, contains, remove } from 'ramda';
-
+import { append, contains } from 'ramda';
 //
 
 const contentPageStore = kea({

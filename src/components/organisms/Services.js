@@ -1,11 +1,14 @@
 import React from 'react';
 import { withRouteData } from 'react-static';
-import { groupBy, map, pipe, toPairs, zipObj } from 'ramda';
+import { groupBy, map, pipe, toPairs, zipObj, filter, contains } from 'ramda';
+import { connect } from 'kea';
+import { compose } from 'recompose';
 import styled from 'styled-components';
 //
 import Service from '~/components/molecules/Service';
 import ListView from '~/components/atoms/ListView';
 import { Heading } from '~/components/atoms/Heading';
+import filterStore from '~/data/store/filterStore';
 
 const byCategory = groupBy(s => s.category);
 const toCategoriesList = pipe(
@@ -13,6 +16,10 @@ const toCategoriesList = pipe(
   toPairs,
   map(zipObj(['title', 'services'])),
 );
+const filterCategoriesFunc = categoriesFilter =>
+  categoriesFilter.length > 0
+    ? filter(category => contains(category.title, categoriesFilter))
+    : i => i;
 
 const ServicesListStyled = styled(ListView)`
   &::after {
@@ -39,9 +46,12 @@ const Category = ({ category }) => (
   </div>
 );
 
-const Services = withRouteData(({ services }) => (
+const Services = compose(
+  withRouteData,
+  connect({ props: [filterStore, ['categoriesFilter']] }),
+)(({ services, categoriesFilter }) => (
   <ListView
-    data={toCategoriesList(services)}
+    data={filterCategoriesFunc(categoriesFilter)(toCategoriesList(services))}
     renderItem={category => <Category className="w-full" category={category} />}
   />
 ));
