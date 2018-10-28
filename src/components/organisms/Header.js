@@ -12,13 +12,13 @@ import Button from '~/components/atoms/Button';
 import filterStore from '~/data/store/filterStore';
 
 const CategoryFilterButton = connect({
-  actions: [filterStore, ['setCategory']],
-})(({ categoryName, actions: { setCategory }, active }) => (
+  actions: [filterStore, ['toggleCategoryFilter']],
+})(({ categoryName, actions: { toggleCategoryFilter }, active }) => (
   <Button
     className={`text-xs font-semibold rounded-full px-2 py-1 mx-1 leading-normal hover:bg-white hover:text-indigo-dark ${
       active ? 'bg-white text-indigo-dark' : 'text-indigo-lightest'
     }`}
-    onClick={() => setCategory(categoryName)}
+    onClick={() => toggleCategoryFilter(categoryName)}
   >
     {categoryName}
   </Button>
@@ -53,16 +53,8 @@ const Header = HeaderHOCs(({ services, categoriesFilter }) => (
         renderItem={categoryName => (
           <CategoryFilterButton
             categoryName={categoryName}
-            nono={console.log({ categoryName, categoriesFilter })}
             active={contains(categoryName, categoriesFilter)}
           />
-          // <Button
-          //   active={contains(categoryName, categoriesFilter)}
-          //   className={`text-xs font-semibold rounded-full px-2 py-1 mx-1 leading-normal border border-white text-indigo-lightest hover:bg-white hover:text-grey-darkest ${active}`}
-          //   onClick={() => setCategory(categoryName)}
-          // >
-          //   {categoryName}
-          // </Button>
         )}
       />
     </ContentSection>

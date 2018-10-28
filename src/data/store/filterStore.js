@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 // import axios from 'axios'
 // import { put } from 'redux-saga/effects'
 // import { delay } from 'redux-saga'
-// import { append } from 'ramda';
+import { append, contains, remove } from 'ramda';
 
 //
 
@@ -11,6 +11,7 @@ const contentPageStore = kea({
   path: () => ['filters'],
   actions: () => ({
     setCategory: categoryTitle => ({ categoryTitle }),
+    toggleCategoryFilter: categoryName => categoryName,
   }),
   reducers: ({ actions }) => ({
     category: [
@@ -25,7 +26,11 @@ const contentPageStore = kea({
       PropTypes.arrayOf(PropTypes.string),
       {
         [actions.setCategory]: (state, payload) =>
-          state.concat(payload.categoryTitle),
+          state.concat(payload.categoryName),
+        [actions.toggleCategoryFilter]: (state, categoryName) =>
+          contains(categoryName, state)
+            ? state.filter(v => v !== categoryName)
+            : append(categoryName, state),
       },
     ],
   }),
