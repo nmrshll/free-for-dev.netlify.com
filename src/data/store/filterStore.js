@@ -9,17 +9,9 @@ import { append, contains } from 'ramda';
 const contentPageStore = kea({
   path: () => ['filters'],
   actions: () => ({
-    setCategory: categoryTitle => ({ categoryTitle }),
     toggleCategoryFilter: categoryName => categoryName,
   }),
   reducers: ({ actions }) => ({
-    category: [
-      null,
-      PropTypes.string,
-      {
-        [actions.setCategory]: (state, payload) => payload.categoryTitle,
-      },
-    ],
     categoriesFilter: [
       [],
       PropTypes.arrayOf(PropTypes.string),
