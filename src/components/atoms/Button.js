@@ -6,7 +6,7 @@ const ButtonStyled = styled.button`
   border-style: none;
   cursor: pointer;
   outline: none;
-  background: ${({ disabled }) => (disabled ? 'hsl(0,0%,90%)' : 'none')};
+  // background: ${({ disabled }) => (disabled ? 'hsl(0,0%,90%)' : 'none')};
 `;
 
 const LinkButton = ButtonStyled.withComponent('a');
