@@ -1,4 +1,6 @@
 import React from 'react';
+import styled from 'styled-components';
+//
 import Button from '~/components/atoms/Button';
 
 const stripURL = url =>
@@ -8,8 +10,17 @@ const stripURL = url =>
     .split(/[/?#]/)[0];
 const capitalizeFirst = str => str.charAt(0).toUpperCase() + str.slice(1);
 
+const ServiceStyled = styled.div`
+  transition: transform 0.2s;
+  cursor: pointer;
+  &:hover,
+  &:focus {
+    transform: scale3d(1.02, 1.02, 1);
+  }
+`;
+
 const Service = ({ service, className, ...rest }) => (
-  <div className={className} {...rest}>
+  <ServiceStyled className={className} {...rest}>
     <div className="bg-white min-h-full shadow-lg rounded-lg overflow-hidden flex flex-col px-6 py-4">
       <p className="text-lg font-semibold text-grey-darkest leading-tight mb-2">
         {capitalizeFirst(service.name)}
@@ -26,7 +37,7 @@ const Service = ({ service, className, ...rest }) => (
         </Button>
       </div>
     </div>
-  </div>
+  </ServiceStyled>
 );
 
 export default Service;
