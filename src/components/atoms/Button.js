@@ -3,7 +3,7 @@ import styled from 'styled-components';
 //
 
 const ButtonStyled = styled.button`
-  border-style: none;
+  // border-style: none;
   cursor: pointer;
   outline: none;
   // background: ${({ disabled }) => (disabled ? 'hsl(0,0%,90%)' : 'none')};
